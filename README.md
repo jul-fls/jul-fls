@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Je travaille actuellement sur une API Amazon<br>🌱 Je suis en train d'apprendre le python<br>💬 Discutons ensemble<br>⚡ Fun fact : Fan de chats
+🔭 Je travaille actuellement sur une API Node.js (Express)<br>🌱 Je suis en train d'approfondir mes connaissances en Javascript<br>💬 Discutons ensemble<br>⚡ Fun fact : Fan de chats
 
 
 ## 🌐 Socials:
