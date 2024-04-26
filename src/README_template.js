@@ -63,7 +63,7 @@ const readme_template = `
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Machines%20as%20simple%20as%20thermostats%20can%20be%20said%20to%20have%20beliefs.&author=John%20McCarthy%20(computer%20scientist))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=${quote}&author=${author})
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
