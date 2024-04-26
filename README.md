@@ -1,4 +1,3 @@
-const readme_template = `
 # 💫 About Me:
 🔭 Je travaille actuellement sur une API Node.js (Express)<br>🌱 Je suis en train d'approfondir mes connaissances en Javascript<br>⚡ Fun fact : Fan de chats
 
@@ -63,7 +62,7 @@ const readme_template = `
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20computer%20would%20deserve%20to%20be%20called%20intelligent%20if%20it%20could%20deceive%20a%20human%20into%20believing%20that%20it%20was%20human.&author=Alan%20Turing)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20language%20that%20doesn't%20affect%20the%20way%20you%20think%20about%20programming,%20is%20not%20worth%20knowing.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -72,4 +71,3 @@ const readme_template = `
 [![](https://visitcount.itsvg.in/api?id=jul-fls&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-`
