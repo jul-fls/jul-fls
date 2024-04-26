@@ -1,4 +1,3 @@
-const readme_template = `
 # 💫 About Me:
 🔭 Je travaille actuellement sur une API Node.js (Express)<br>🌱 Je suis en train d'approfondir mes connaissances en Javascript<br>⚡ Fun fact : Fan de chats
 
@@ -72,4 +71,3 @@ const readme_template = `
 [![](https://visitcount.itsvg.in/api?id=jul-fls&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-`

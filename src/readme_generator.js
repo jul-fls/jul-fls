@@ -1,7 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 
-const README_TEMPLATE_PATH = './src/README_template.js';
+const README_TEMPLATE_PATH = './src/README_template.md';
 const README_OUTPUT_PATH = './README.md';
 const QUOTES_URL = 'https://raw.githubusercontent.com/mudroljub/programming-quotes-api/master/Data/quotes.json';
 
