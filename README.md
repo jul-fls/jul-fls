@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=We're%20no%20longer%20in%20the%20days%20where%20everything%20is%20super%20well%20crafted.%20But%20at%20the%20heart%20of%20the%20programs%20that%20make%20it%20to%20the%20top,%20you'll%20find%20that%20the%20key%20internal%20code%20was%20done%20by%20a%20few%20people%20who%20really%20know%20what%20they%20were%20doing.&author=Bill%20Gates)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Communication%20must%20be%20stateless%20in%20nature,%20such%20that%20each%20request%20from%20client%20to%20server%20must%20contain%20all%20of%20the%20information%20necessary%20to%20understand%20the%20request,%20and%20cannot%20take%20advantage%20of%20any%20stored%20context%20on%20the%20server.&author=Roy%20Fielding)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
