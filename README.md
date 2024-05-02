@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Communication%20must%20be%20stateless%20in%20nature,%20such%20that%20each%20request%20from%20client%20to%20server%20must%20contain%20all%20of%20the%20information%20necessary%20to%20understand%20the%20request,%20and%20cannot%20take%20advantage%20of%20any%20stored%20context%20on%20the%20server.&author=Roy%20Fielding)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Testing%20can%20be%20a%20very%20effective%20way%20to%20show%20the%20presence%20of%20bugs,%20but%20it%20is%20hopelessly%20inadequate%20for%20showing%20their%20absence.&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
