@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=One%20of%20my%20most%20productive%20days%20was%20throwing%20away%201,000%20lines%20of%20code.&author=Ken%20Thompson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20think%20it's%20simple,%20then%20you%20have%20misunderstood%20the%20problem.&author=Bjarne%20Stroustrup)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
