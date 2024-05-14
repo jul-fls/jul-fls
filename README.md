@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20think%20of%20myself%20as%20a%20writer.%20Sometimes%20I%20write%20in%20English%20and%20sometimes%20I%20write%20in%20JavaScript.&author=Douglas%20Crockford)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20purpose%20of%20software%20engineering%20is%20to%20control%20complexity,%20not%20to%20create%20it.&author=Pamela%20Zave)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
