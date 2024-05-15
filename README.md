@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20purpose%20of%20software%20engineering%20is%20to%20control%20complexity,%20not%20to%20create%20it.&author=Pamela%20Zave)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=C%20makes%20it%20easy%20to%20shoot%20yourself%20in%20the%20foot;%20C++%20makes%20it%20harder,%20but%20when%20you%20do%20it%20blows%20your%20whole%20leg%20off.&author=Bjarne%20Stroustrup)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
