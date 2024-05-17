@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20business%20of%20software%20building%20isn't%20really%20high-tech%20at%20all.%20It's%20most%20of%20all%20a%20business%20of%20talking%20to%20each%20other%20and%20writing%20things%20down.&author=Tom%20DeMarco)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sackman,%20Erickson,%20and%20Grant%20were%20measuring%20performance%20of%20a%20group%20of%20experienced%20programmers.%20Within%20just%20this%20group%20the%20ratios%20between%20the%20best%20and%20worst%20performances%20averaged%20about%2010:1%20on%20productivity%20measurements%20and%20an%20amazing%205:1%20on%20program%20speed%20and%20space%20measurements!&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
