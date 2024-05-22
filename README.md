@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Study%20after%20study%20shows%20that%20the%20very%20best%20designers%20produce%20structures%20that%20are%20faster,%20smaller,%20simpler,%20cleaner,%20and%20produced%20with%20less%20effort.%20The%20differences%20between%20the%20great%20and%20the%20average%20approach%20an%20order%20of%20magnitude.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Should%20array%20indices%20start%20at%200%20or%201?%20My%20compromise%20of%200.5%20was%20rejected%20without,%20I%20thought,%20proper%20consideration.&author=Stan%20Kelly-Bootle)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
