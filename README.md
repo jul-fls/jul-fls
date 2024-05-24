@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Of%20the%20many%20forms%20of%20false%20culture,%20a%20premature%20converse%20with%20abstractions%20is%20perhaps%20the%20most%20likely%20to%20prove%20fatal%20to%20the%20growth%20of%20a%20masculine%20vigour%20of%20intellect.&author=George%20Boole)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Making%20things%20easy%20is%20hard.&author=Ted%20Nelson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
