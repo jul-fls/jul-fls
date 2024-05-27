@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Making%20things%20easy%20is%20hard.&author=Ted%20Nelson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=SQL,%20Lisp,%20and%20Haskell%20are%20the%20only%20programming%20languages%20that%20I've%20seen%20where%20one%20spends%20more%20time%20thinking%20than%20typing.&author=Philip%20Greenspun)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
