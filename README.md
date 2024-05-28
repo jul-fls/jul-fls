@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=SQL,%20Lisp,%20and%20Haskell%20are%20the%20only%20programming%20languages%20that%20I've%20seen%20where%20one%20spends%20more%20time%20thinking%20than%20typing.&author=Philip%20Greenspun)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Conceptual%20integrity%20is%20the%20most%20important%20consideration%20in%20system%20design.%20It%20is%20better%20to%20have%20a%20system%20omit%20certain%20anomalous%20features%20and%20improvements,%20but%20to%20reflect%20one%20set%20of%20design%20ideas,%20than%20to%20have%20one%20that%20contains%20many%20good%20but%20independent%20and%20uncoordinated%20ideas.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
