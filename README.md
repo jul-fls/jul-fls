@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=All%20of%20our%20exalted%20technological%20progress,%20civilization%20for%20that%20matter,%20is%20comparable%20to%20an%20axe%20in%20the%20hand%20of%20a%20pathological%20criminal.&author=Albert%20Einstein)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20use%20of%20COBOL%20cripples%20the%20mind;%20its%20teaching%20should,%20therefore,%20be%20regarded%20as%20a%20criminal%20offense.&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
