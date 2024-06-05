@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=When%20program%20developers%20are%20not%20territorial%20about%20their%20code%20and%20encourage%20others%20to%20look%20for%20bugs%20and%20potential%20improvements,%20progress%20speeds%20up%20dramatically.&author=Gerald%20Weinberg)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20think%20it's%20simple,%20then%20you%20have%20misunderstood%20the%20problem.&author=Bjarne%20Stroustrup)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
