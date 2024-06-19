@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%E2%80%99ll%20use%20dirty%20tricks%20for%20two%20reasons.%20One%20is,%20if%20it%E2%80%99s%20really%20going%20to%20give%20me%20a%20performance%20improvement.%20Or%20sometimes%20just%20for%20pure%20pleasure.%20In%20any%20case,%20I%20document%20it;%20I%20don%E2%80%99t%20just%20put%20it%20in%20there.&author=Donald%20Knuth)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Hal%20Abelson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
