@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Hal%20Abelson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Every%20good%20work%20of%20software%20starts%20by%20scratching%20a%20developer%E2%80%99s%20personal%20itch.&author=Eric%20S.%20Raymond)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
