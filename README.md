@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Every%20good%20work%20of%20software%20starts%20by%20scratching%20a%20developer%E2%80%99s%20personal%20itch.&author=Eric%20S.%20Raymond)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Code%20is%20expensive%20to%20change,%20but%20design%20is%20cheaper%20to%20change,%20and%20requirements%20are%20even%20cheaper%20to%20change.&author=Daniel%20T.%20Barry)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
