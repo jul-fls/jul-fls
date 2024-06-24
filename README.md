@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Code%20is%20expensive%20to%20change,%20but%20design%20is%20cheaper%20to%20change,%20and%20requirements%20are%20even%20cheaper%20to%20change.&author=Daniel%20T.%20Barry)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programming%20is%20the%20ultimate%20field%20for%20someone%20who%20likes%20to%20tinker.&author=Ray%20Ozzie)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
