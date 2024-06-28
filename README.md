@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20ratio%20of%20time%20spent%20reading%20versus%20writing%20is%20well%20over%2010%20to%201.%20We%20are%20constantly%20reading%20old%20code%20as%20part%20of%20the%20effort%20to%20write%20new%20code.&author=Robert%20C.%20Martin)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20really%20great%20programs%20I've%20written%20have%20all%20been%20ones%20that%20I%20have%20thought%20about%20for%20a%20huge%20amount%20of%20time%20before%20I%20ever%20wrote%20them.&author=Bill%20Gates)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
