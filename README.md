@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Within%20a%20computer,%20natural%20language%20is%20unnatural.&author=Alan%20Perlis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sadly,%20architecture%20has%20been%20undervalued%20for%20so%20long%20that%20many%20engineers%20regard%20life%20with%20a%20Big%20Ball%20of%20Mud%20as%20normal.&author=Joseph%20Yoder%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
