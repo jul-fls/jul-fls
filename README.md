@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%E2%80%99ve%20never%20been%20a%20lover%20of%20existing%20code.%20Code%20by%20itself%20almost%20rots%20and%20it%E2%80%99s%20gotta%20be%20rewritten.%20Even%20when%20nothing%20has%20changed,%20for%20some%20reason%20it%20rots.&author=Ken%20Thompson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20Microsoft%20ever%20does%20applications%20for%20Linux%20it%20means%20I've%20won.&author=Linus%20Torvalds)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
