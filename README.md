@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=To%20iterate%20is%20human,%20to%20recurse%20divine.&author=L.%20Peter%20Deutsch)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I'll%20bet%20you%20that%20from%20ten%20feet%20away%20I%20can%20tell%20if%20a%20program%20is%20bad.%20I%20might%20not%20guarantee%20that%20it%20is%20good,%20but%20if%20it%20looks%20bad%20from%20ten%20feet,%20I%20can%20guarantee%20you%20that%20it%20wasn't%20written%20with%20care.&author=Charles%20Simonyi)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
