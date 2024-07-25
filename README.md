@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=In%20order%20to%20understand%20recursion,%20one%20must%20first%20understand%20recursion.&author=Anonymous)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Good%20software,%20like%20good%20wine,%20takes%20time.&author=Joel%20Spolsky)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
