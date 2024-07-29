@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20are%20few%20things%20more%20frustrating%20or%20time%20wasting%20than%20debugging.%20Wouldn't%20it%20be%20a%20hell%20of%20a%20lot%20quicker%20if%20we%20just%20didn't%20create%20the%20bugs%20in%20the%20first%20place?&author=Martin%20Fowler)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Documenting%20is%20very,%20very%20hard;%20it%E2%80%99s%20time-consuming.%20To%20do%20it%20right,%20you%E2%80%99ve%20got%20to%20do%20it%20like%20programming.%20You%E2%80%99ve%20got%20to%20deconstruct%20it,%20put%20it%20together%20in%20nice%20ways,%20rewrite%20it%20when%20it%E2%80%99s%20wrong.%20People%20don%E2%80%99t%20do%20that.&author=Ken%20Thompson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
