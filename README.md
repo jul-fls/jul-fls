@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20number%20of%20studies%20have%20shown%20testing%20not%20very%20effective%20at%20finding%20bugs.&author=Daniel%20T.%20Barry)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20most%20effective%20debugging%20tool%20is%20still%20careful%20thought,%20coupled%20with%20judiciously%20placed%20print%20statements.&author=Brian%20Kernighan)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
