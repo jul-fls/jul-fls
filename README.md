@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20is%20an%20amazing%20commonality%20in%20the%20types%20of%20difficulties%20you%20run%20into.%20In%20design%20reviews,%20I%20really%20enjoy%20being%20able%20to%20provide%20advice,%20based%20on%20programs%20that%20I%20have%20done.&author=Bill%20Gates)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Documenting%20is%20very,%20very%20hard;%20it%E2%80%99s%20time-consuming.%20To%20do%20it%20right,%20you%E2%80%99ve%20got%20to%20do%20it%20like%20programming.%20You%E2%80%99ve%20got%20to%20deconstruct%20it,%20put%20it%20together%20in%20nice%20ways,%20rewrite%20it%20when%20it%E2%80%99s%20wrong.%20People%20don%E2%80%99t%20do%20that.&author=Ken%20Thompson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
