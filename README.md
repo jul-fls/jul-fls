@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Documenting%20is%20very,%20very%20hard;%20it%E2%80%99s%20time-consuming.%20To%20do%20it%20right,%20you%E2%80%99ve%20got%20to%20do%20it%20like%20programming.%20You%E2%80%99ve%20got%20to%20deconstruct%20it,%20put%20it%20together%20in%20nice%20ways,%20rewrite%20it%20when%20it%E2%80%99s%20wrong.%20People%20don%E2%80%99t%20do%20that.&author=Ken%20Thompson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20cost%20to%20repair%20an%20error%20goes%20up%20dramatically%20as%20project%20moves%20towards%20completion%20and%20beyond.&author=Daniel%20T.%20Barry)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
