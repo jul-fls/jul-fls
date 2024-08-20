@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=In%20the%20case%20of%20the%20Analytical%20Engine,%20we%20have%20undoubtedly%20to%20lay%20out%20a%20certain%20capital%20of%20analytical%20labour%20in%20one%20particular%20line,%20but%20this%20is%20in%20order%20that%20the%20engine%20may%20bring%20us%20in%20a%20much%20larger%20return%20in%20another%20line.&author=Ada%20Lovelace)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computers%20are%20the%20most%20complex%20objects%20we%20human%20beings%20have%20ever%20created,%20but%20in%20a%20fundamental%20sense%20they%20are%20remarkably%20simple.&author=Danny%20Hillis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
