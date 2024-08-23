@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computer%20Science%20is%20no%20more%20about%20computers%20than%20astronomy%20is%20about%20telescopes.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=How%20do%20we%20convince%20people%20that%20in%20programming%20simplicity%20and%20clarity%20%E2%80%94%20in%20short:%20what%20mathematicians%20call%20%22elegance%22%20%E2%80%94%20are%20not%20a%20dispensable%20luxury,%20but%20a%20crucial%20matter%20that%20decides%20between%20success%20and%20failure?&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
