@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sometimes%20we%20do%20get%20taken%20by%20surprise.%20For%20example,%20when%20the%20Internet%20came%20along,%20we%20had%20it%20as%20a%20fifth%20or%20sixth%20priority.&author=Bill%20Gates)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20problem%20is%20that%20coding%20isn%E2%80%99t%20fun%20if%20all%20you%20can%20do%20is%20call%20things%20out%20of%20a%20library,%20if%20you%20can%E2%80%99t%20write%20the%20library%20yourself.&author=Donald%20Knuth)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
