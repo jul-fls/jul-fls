@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Dealing%20with%20failure%20is%20easy:%20Work%20hard%20to%20improve.&author=Alan%20Perlis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20we%E2%80%99d%20asked%20the%20customers%20what%20they%20wanted,%20they%20would%20have%20said%20%E2%80%9Cfaster%20horses%E2%80%9D.&author=Henry%20Ford)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
