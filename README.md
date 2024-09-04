@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20we%E2%80%99d%20asked%20the%20customers%20what%20they%20wanted,%20they%20would%20have%20said%20%E2%80%9Cfaster%20horses%E2%80%9D.&author=Henry%20Ford)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.&author=Arthur%20C.%20Clarke)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
