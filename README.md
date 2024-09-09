@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Good%20software,%20like%20good%20wine,%20takes%20time.&author=Joel%20Spolsky)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=JavaScript,%20purely%20by%20accident,%20has%20become%20the%20most%20popular%20programming%20language%20in%20the%20world.&author=Douglas%20Crockford)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
