@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Anybody%20who%20comes%20to%20you%20and%20says%20he%20has%20a%20perfect%20language%20is%20either%20na%C3%AFve%20or%20a%20salesman.&author=Bjarne%20Stroustrup)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Reviews%20and%20pair%20programming%20provide%20programmers%20with%20something%20their%20work%20would%20not%20otherwise%20have:%20an%20audience.%20Sunlight,%20it%20is%20said%20is%20a%20powerful%20disinfectant.%20An%20immediate%20audience%20of%20one's%20peers%20provides%20immediate%20incentives%20to%20programmers%20to%20keep%20their%20code%20clear%20and%20comprehensible,%20as%20well%20as%20functional.&author=Joseph%20Yoder%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
