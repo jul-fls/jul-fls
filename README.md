@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Just%20because%20you've%20implemented%20something%20doesn't%20mean%20you%20understand%20it.&author=Brian%20Cantwell%20Smith)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20programmer,%20like%20the%20poet,%20works%20only%20slightly%20removed%20from%20pure%20thought-stuff.%20He%20builds%20his%20castles%20in%20the%20air,%20from%20air,%20creating%20by%20exertion%20of%20the%20imagination.%20Few%20media%20of%20creation%20are%20so%20flexible,%20so%20easy%20to%20polish%20and%20rework,%20so%20readily%20capable%20of%20realizing%20grand%20conceptual%20structures.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
