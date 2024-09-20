@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Thus%20it%20is%20observable%20that%20the%20buildings%20which%20a%20single%20architect%20has%20planned%20and%20executed,%20are%20generally%20more%20elegant%20and%20commodious%20than%20those%20which%20several%20have%20attempted%20to%20improve.&author=Ren%C3%A9%20Descartes)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sometimes%20it%E2%80%99s%20just%20easier%20to%20throw%20a%20system%20away,%20and%20start%20over.&author=Joseph%20Yoder%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
