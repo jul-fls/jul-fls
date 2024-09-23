@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sometimes%20it%E2%80%99s%20just%20easier%20to%20throw%20a%20system%20away,%20and%20start%20over.&author=Joseph%20Yoder%20(computer%20scientist))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Ideas%20don't%20disappear.%20They%20change%20form,%20they%20merge%20with%20other%20ideas.&author=Bob%20Frankston)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
