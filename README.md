@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programming%20is%20programming.%20If%20you%20get%20good%20at%20programming,%20it%20doesn't%20matter%20which%20language%20you%20learned%20it%20in,%20because%20you'll%20be%20able%20to%20do%20programming%20in%20any%20language.&author=Richard%20Stallman)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Mathematicians%20stand%20on%20each%20others'%20shoulders%20and%20computer%20scientists%20stand%20on%20each%20others'%20toes.&author=Richard%20Hamming)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
