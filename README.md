@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20start%20with%20drawing%20the%20data%20structures,%20and%20I%20spend%20a%20lot%20of%20time%20thinking%20about%20them.%20I%20also%20think%20about%20what%20the%20program%20has%20to%20go%20through%20before%20I%20start%20writing%20code.&author=Gary%20Kildall)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Dealing%20with%20failure%20is%20easy:%20Work%20hard%20to%20improve.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
