@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20care%20not%20only%20what%20the%20code%20says%20but%20how%20it%20looks.&author=Peter%20Roizen)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20am%20never%20satisfied%20until%20I%20have%20said%20as%20much%20as%20possible%20in%20a%20few%20words,%20and%20writing%20briefly%20takes%20far%20more%20time%20than%20writing%20at%20length.&author=Carl%20Friedrich%20Gauss)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
