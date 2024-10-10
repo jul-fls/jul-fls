@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20am%20never%20satisfied%20until%20I%20have%20said%20as%20much%20as%20possible%20in%20a%20few%20words,%20and%20writing%20briefly%20takes%20far%20more%20time%20than%20writing%20at%20length.&author=Carl%20Friedrich%20Gauss)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20consider%20that%20the%20golden%20rule%20requires%20that%20if%20I%20like%20a%20program%20I%20must%20share%20it%20with%20other%20people%20who%20like%20it.%20Software%20sellers%20want%20to%20divide%20the%20users%20and%20conquer%20them,%20making%20each%20user%20agree%20not%20to%20share%20with%20others.%20I%20refuse%20to%20break%20solidarity%20with%20other%20users%20in%20this%20way.&author=Richard%20Stallman)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
