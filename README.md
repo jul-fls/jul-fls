@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20acts%20of%20the%20mind,%20wherein%20it%20exerts%20its%20power%20over%20simple%20ideas,%20are%20chiefly%20these%20three:%201.%20Combining%20several%20simple%20ideas%20into%20one%20compound%20one,%20and%20thus%20all%20complex%20ideas%20are%20made.%202.%20The%20second%20is%20bringing%20two%20ideas,%20whether%20simple%20or%20complex,%20together,%20and%20setting%20them%20by%20one%20another%20so%20as%20to%20take%20a%20view%20of%20them%20at%20once,%20without%20uniting%20them%20into%20one,%20by%20which%20it%20gets%20all%20its%20ideas%20of%20relations.%203.%20The%20third%20is%20separating%20them%20from%20all%20other%20ideas%20that%20accompany%20them%20in%20their%20real%20existence:%20this%20is%20called%20abstraction,%20and%20thus%20all%20its%20general%20ideas%20are%20made.&author=John%20Locke)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Telling%20a%20programmer%20there's%20already%20a%20library%20to%20do%20X%20is%20like%20telling%20a%20songwriter%20there's%20already%20a%20song%20about%20love.&author=Pete%20Cordell)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
