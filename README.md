@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20button%20is%20working,%20only,%20it%20cannot%20be%20seen.&author=Anonymous)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%E2%80%99s%20all%20talk%20until%20the%20code%20runs.&author=Ward%20Cunningham)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
