@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Chemical%20engineers%20learned%20long%20ago%20that%20a%20process%20that%20works%20in%20the%20laboratory%20cannot%20be%20implemented%20in%20a%20factory%20in%20only%20one%20step.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Never%20trust%20a%20computer%20you%20can%E2%80%99t%20throw%20out%20a%20window.&author=Steve%20Wozniak)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
