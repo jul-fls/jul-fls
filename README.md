@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=No%20matter%20how%20slick%20the%20demo%20is%20in%20rehearsal,%20when%20you%20do%20it%20in%20front%20of%20a%20live%20audience,%20the%20probability%20of%20a%20flawless%20presentation%20is%20inversely%20proportional%20to%20the%20number%20of%20people%20watching,%20raised%20to%20the%20power%20of%20the%20amount%20of%20money%20involved.&author=Mark%20Gibbs)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20have%20no%20special%20talent.%20I%20am%20only%20passionately%20curious.&author=Albert%20Einstein)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
