@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20complex%20system%20that%20works%20is%20invariably%20found%20to%20have%20evolved%20from%20a%20simple%20system%20that%20worked.%20The%20inverse%20proposition%20also%20appears%20to%20be%20true:%20A%20complex%20system%20designed%20from%20scratch%20never%20works%20and%20cannot%20be%20made%20to%20work.&author=John%20Gall%20(author))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Any%20intelligent%20fool%20can%20make%20things%20bigger,%20more%20complex,%20and%20more%20violent.%20It%20takes%20a%20touch%20of%20genius%20%E2%80%93%20and%20a%20lot%20of%20courage%20%E2%80%93%20to%20move%20in%20the%20opposite%20direction.&author=Albert%20Einstein)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
