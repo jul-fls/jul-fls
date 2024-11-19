@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20don't%20like%20using%20any%20tools%20or%20programs%20I%20didn't%20write%20myself%20or%20that%20I%20don't%20have%20some%20control%20over.&author=Jonathan%20Sachs)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Fools%20ignore%20complexity.%20Pragmatists%20suffer%20it.%20Some%20can%20avoid%20it.%20Geniuses%20remove%20it.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
