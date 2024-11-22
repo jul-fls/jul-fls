@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Premature%20abstraction%20is%20as%20bad%20as%20premature%20optimization.&author=Luciano%20Ramalho)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=What%20I%20cannot%20build,%20I%20do%20not%20understand.&author=Richard%20Feynman)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
