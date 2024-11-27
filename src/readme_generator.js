@@ -16,7 +16,7 @@ const generateReadme = async () => {
     const quote = await getQuote();
     const readmeTemplate = fs.readFileSync(README_TEMPLATE_PATH, 'utf8');
     const readme = readmeTemplate
-        .replace('${quote}', encodeURI(quote.en))
+        .replace('${quote}', encodeURI(quote.text))
         .replace('${author}', encodeURI(quote.author));
     fs.writeFileSync(README_OUTPUT_PATH, readme);
 };
