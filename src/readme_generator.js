@@ -3,7 +3,7 @@ const axios = require('axios');
 
 const README_TEMPLATE_PATH = './src/README_template.md';
 const README_OUTPUT_PATH = './README.md';
-const QUOTES_URL = 'https://raw.githubusercontent.com/mudroljub/programming-quotes-api/master/Data/quotes.json';
+const QUOTES_URL = 'https://raw.githubusercontent.com/mudroljub/programming-quotes-api/master/data/quotes.json';
 
 const getQuote = async () => {
     const response = await axios.get(QUOTES_URL);
