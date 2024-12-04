@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Make%20a%20guess,%20double%20the%20number,%20and%20then%20move%20to%20the%20next%20larger%20unit%20of%20time.%20This%20rule%20scales%20tasks%20in%20a%20very%20interesting%20way:%20a%20one-minute%20task%20explodes%20by%20a%20factor%20of%20120%20to%20take%20two%20hours.%20A%20one-hour%20job%20explodes%20by%20%22only%22%20a%20factor%2048%20to%20take%20two%20days,%20while%20a%20one-day%20job%20grows%20by%20a%20factor%20of%2014%20to%20take%20two%20weeks.&author=Poul-Henning%20Kamp)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Language%20systems%20stand%20on%20a%20tripod.%20There%E2%80%99s%20the%20language,%20there%E2%80%99s%20the%20libraries,%20and%20there%20are%20the%20tools.%20And%20how%20successful%20a%20language%20is%20depends%20on%20a%20complex%20interaction%20between%20those%20three%20things.&author=L.%20Peter%20Deutsch)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
