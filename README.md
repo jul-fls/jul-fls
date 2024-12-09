@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Any%20unwillingness%20to%20learn%20mathematics%20today%20can%20greatly%20restrict%20your%20possibilities%20tomorrow.&author=Richard%20Hamming)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20skilled%20programmer%20is%20like%20a%20poet%20who%20can%20put%20into%20words%20those%20ideas%20that%20others%20find%20inexpressible.&author=Danny%20Hillis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
