@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Having%20a%20system%20architect%20is%20the%20most%20important%20single%20step%20toward%20conceptual%20integrity.%20After%20teaching%20a%20software%20engineering%20laboratory%20more%20than%2020%20times,%20I%20came%20to%20insist%20that%20student%20teams%20as%20small%20as%20four%20people%20choose%20a%20manager%20and%20a%20separate%20architect.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20cannot%20explain%20a%20program%20to%20yourself,%20the%20chance%20of%20the%0Acomputer%20getting%20it%20right%20is%20pretty%20small.&author=Bob%20Frankston)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
