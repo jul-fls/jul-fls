@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20cannot%20explain%20a%20program%20to%20yourself,%20the%20chance%20of%20the%0Acomputer%20getting%20it%20right%20is%20pretty%20small.&author=Bob%20Frankston)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20was%20a%20turning%20point%20in%20my%20programming%20career%20when%20I%20realized%20that%20I%20didn't%20have%20to%20win%20every%20argument.&author=Ward%20Cunningham)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
