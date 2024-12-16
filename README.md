@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20I%20had%20followed%20my%20heart%20instead%20of%20advice,%20dBASE%20would%20be%20much%20closer%20to%20perfection%20today.&author=Wayne%20Ratliff)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=We%20have%20already%20mentioned%20what%20may,%20perhaps,%20appear%20paradoxical%20to%20some%20of%20our%20readers,%20%E2%80%94%20that%20the%20division%20of%20labour%20can%20be%20applied%20with%20equal%20success%20to%20mental%20as%20to%20mechanical%20operations,%20and%20that%20it%20ensures%20in%20both%20the%20same%20economy%20of%20time.&author=Charles%20Babbage)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
