@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computer%20programs%20are%20the%20most%20complex%20things%20that%20humans%20make.&author=Douglas%20Crockford)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20would%20make%20a%20strong%20case%20that%20programming%20languages%20have%20not%20improved%20qualitatively%20in%20the%20last%2040%20years.%20There%20is%20no%20programming%20language%20in%20use%20today%20that%20is%20qualitatively%20better%20than%20Simula-67.&author=L.%20Peter%20Deutsch)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
