@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20would%20make%20a%20strong%20case%20that%20programming%20languages%20have%20not%20improved%20qualitatively%20in%20the%20last%2040%20years.%20There%20is%20no%20programming%20language%20in%20use%20today%20that%20is%20qualitatively%20better%20than%20Simula-67.&author=L.%20Peter%20Deutsch)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20programmers%20are%20not%20marginally%20better%20than%20merely%20good%20ones.%20They%20are%20an%20order-of-magnitude%20better,%20measured%20by%20whatever%20standard:%20conceptual%20creativity,%20speed,%20ingenuity%20of%20design,%20or%20problem-solving%20ability.&author=Randall%20E.%20Stross)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
