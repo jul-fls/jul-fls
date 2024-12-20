@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20programmers%20are%20not%20marginally%20better%20than%20merely%20good%20ones.%20They%20are%20an%20order-of-magnitude%20better,%20measured%20by%20whatever%20standard:%20conceptual%20creativity,%20speed,%20ingenuity%20of%20design,%20or%20problem-solving%20ability.&author=Randall%20E.%20Stross)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Program%20building%20is%20an%20entropy-decreasing%20process,%20hence%20inherently%20metastable.%20Program%20maintenance%20is%20an%20entropy-increasing%20process,%20and%20even%20its%20most%20skillful%20execution%20only%20delays%20the%20subsidence%20of%20the%20system%20into%20unfixable%20obsolescence.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
