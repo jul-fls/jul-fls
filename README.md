@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Program%20building%20is%20an%20entropy-decreasing%20process,%20hence%20inherently%20metastable.%20Program%20maintenance%20is%20an%20entropy-increasing%20process,%20and%20even%20its%20most%20skillful%20execution%20only%20delays%20the%20subsidence%20of%20the%20system%20into%20unfixable%20obsolescence.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=All%20of%20our%20exalted%20technological%20progress,%20civilization%20for%20that%20matter,%20is%20comparable%20to%20an%20axe%20in%20the%20hand%20of%20a%20pathological%20criminal.&author=Albert%20Einstein)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
