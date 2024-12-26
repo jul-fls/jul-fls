@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Instead%20of%20the%20progression%20of%20tens,%20I%20have%20for%20many%20years%20used%20the%20simplest%20progression%20of%20all,%20which%20proceeds%20by%20twos,%20having%20found%20that%20it%20is%20useful%20for%20the%20perfection%20of%20the%20science%20of%20numbers.&author=Gottfried%20Wilhelm%20Leibniz)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20want%20to%20set%20off%20and%20go%20develop%20some%20grand%20new%20thing,%20you%20don't%20need%20millions%20of%20dollars%20of%20capitalization.%20You%20need%20enough%20pizza%20and%20Diet%20Coke%20to%20stick%20in%20your%20refrigerator,%20a%20cheap%20PC%20to%20work%20on,%20and%20the%20dedication%20to%20go%20through%20with%20it.&author=John%20Carmack)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
