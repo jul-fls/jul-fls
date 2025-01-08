@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Then%20Apple%20went%20public%20toward%20the%20end%20of%201980.%20All%20of%20a%20sudden,%20all%20these%20people%20I%20was%20working%20with%20were%20millionaires.&author=Andy%20Hertzfeld)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=With%20the%20right%20programming,%20a%20computer%20can%20become%20a%20theater,%20a%20musical%20instrument,%20a%20reference%20book,%20a%20chess%20opponent.%20No%20other%20entity%20in%20the%20world%20except%20a%20human%20being%20has%20such%20an%20adaptable,%20universal%20nature.&author=Danny%20Hillis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
