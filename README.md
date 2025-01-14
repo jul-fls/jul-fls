@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There's%20nothing%20more%20permanent%20than%20a%20temporary%20hack.&author=Kyle%20Simpson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20purpose%20of%20computing%20is%20insight,%20not%20numbers.&author=Richard%20Hamming)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
