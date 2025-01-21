@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Adding%20people%20to%20a%20software%20project%20increases%20the%20total%20effort%20necessary%20in%20three%20ways:%20the%20work%20and%20disruption%20of%20repartitioning%20itself,%20training%20the%20new%20people,%20and%20added%20intercommunication.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%E2%80%99ll%20throw%20away%20code%20as%20soon%20I%20want%20to%20add%20something%20to%20it%20and%20I%20get%20the%20feeling%20that%20what%20I%20have%20to%20do%20to%20add%20it%20is%20too%20hard.&author=Ken%20Thompson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
