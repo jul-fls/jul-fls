@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20cleaner%20and%20nicer%20the%20program,%20the%20faster%20it's%20going%20to%20run.%20And%20if%20it%20doesn't,%20it'll%20be%20easy%20to%20make%20it%20fast.&author=Joshua%20Bloch)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20business%20of%20software%20building%20isn't%20really%20high-tech%20at%20all.%20It's%20most%20of%20all%20a%20business%20of%20talking%20to%20each%20other%20and%20writing%20things%20down.&author=Tom%20DeMarco)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
