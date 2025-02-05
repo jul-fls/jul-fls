@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Two%20centuries%20ago%20Leibnitz%20invented%20a%20calculating%20machine%20which%20embodied%20most%20of%20the%20essential%20features%20of%20recent%20keyboard%20devices,%20but%20it%20could%20not%20then%20come%20into%20use.%20The%20economics%20of%20the%20situation%20were%20against%20it.&author=Vannevar%20Bush)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Once%20a%20new%20technology%20starts%20rolling,%20if%20you%E2%80%99re%20not%20part%20of%20the%20steamroller,%20you%E2%80%99re%20part%20of%20the%20road.&author=Stewart%20Brand)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
