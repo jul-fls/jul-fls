@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Once%20a%20new%20technology%20starts%20rolling,%20if%20you%E2%80%99re%20not%20part%20of%20the%20steamroller,%20you%E2%80%99re%20part%20of%20the%20road.&author=Stewart%20Brand)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=One%20man's%20constant%20is%20another%20man's%20variable.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
