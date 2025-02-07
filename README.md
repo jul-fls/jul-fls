@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=One%20man's%20constant%20is%20another%20man's%20variable.&author=Alan%20Perlis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Coding%20is%20%2290%20percent%20finished%22%20for%20half%20of%20the%20total%20coding%20time.%20Debugging%20is%20%2299%20percent%20complete%22%20most%20of%20the%20time.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
