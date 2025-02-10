@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Coding%20is%20%2290%20percent%20finished%22%20for%20half%20of%20the%20total%20coding%20time.%20Debugging%20is%20%2299%20percent%20complete%22%20most%20of%20the%20time.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Email%20is%20a%20wonderful%20thing%20for%20people%20whose%20role%20in%20life%20is%20to%20be%20on%20top%20of%20things.%20But%20not%20for%20me;%20my%20role%20is%20to%20be%20on%20the%20bottom%20of%20things.%20What%20I%20do%20takes%20long%20hours%20of%20studying%20and%20uninterruptible%20concentration.&author=Donald%20Knuth)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
