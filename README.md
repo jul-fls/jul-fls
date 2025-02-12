@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Lisp%20is%20worth%20learning%20for%20the%20profound%20enlightenment%20experience%20you%20will%20have%20when%20you%20finally%20get%20it;%20that%20experience%20will%20make%20you%20a%20better%20programmer%20for%20the%20rest%20of%20your%20days,%20even%20if%20you%20never%20actually%20use%20Lisp%20itself%20a%20lot.&author=Eric%20S.%20Raymond)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computer%20programs%20are%20the%20most%20complex%20things%20that%20humans%20make.&author=Douglas%20Crockford)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
