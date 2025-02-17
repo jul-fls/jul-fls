@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=First,%20we%20must%20observe%20that%20the%20anomaly%20is%20not%20that%20software%20progress%20is%20so%20slow%20but%20that%20computer%20hardware%20progress%20is%20so%20fast.%20No%20other%20technology%20since%20civilization%20began%20has%20seen%20six%20orders%20of%20magnitude%20price-performance%20gain%20in%2030%20years.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=One%20of%20my%20most%20productive%20days%20was%20throwing%20away%201,000%20lines%20of%20code.&author=Ken%20Thompson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
