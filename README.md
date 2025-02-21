@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Make%20a%20guess,%20double%20the%20number,%20and%20then%20move%20to%20the%20next%20larger%20unit%20of%20time.%20This%20rule%20scales%20tasks%20in%20a%20very%20interesting%20way:%20a%20one-minute%20task%20explodes%20by%20a%20factor%20of%20120%20to%20take%20two%20hours.%20A%20one-hour%20job%20explodes%20by%20%22only%22%20a%20factor%2048%20to%20take%20two%20days,%20while%20a%20one-day%20job%20grows%20by%20a%20factor%20of%2014%20to%20take%20two%20weeks.&author=Poul-Henning%20Kamp)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Always%20code%20as%20if%20the%20guy%20who%20ends%20up%20maintaining%20your%20code%20will%20be%20a%20violent%20psychopath%20who%20knows%20where%20you%20live.&author=Rick%20Osborne)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
