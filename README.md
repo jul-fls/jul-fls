@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Always%20code%20as%20if%20the%20guy%20who%20ends%20up%20maintaining%20your%20code%20will%20be%20a%20violent%20psychopath%20who%20knows%20where%20you%20live.&author=Rick%20Osborne)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programming%20is%20a%20little%20bit%20like%20the%20army.%20Now%20that%20I'm%20out,%20it's%20neat%20to%20have%20had%20the%20experience.&author=Wayne%20Ratliff)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
