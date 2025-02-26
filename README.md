@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20proper%20use%20of%20comments%20is%20to%20compensate%20for%20our%20failure%20to%20express%20ourself%20in%20code.&author=Robert%20C.%20Martin)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Very%20good%20professional%20programmers%20are%20ten%20times%20as%20productive%20as%20poor%20ones,%20at%20same%20training%20and%20two-year%20experience%20level.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
