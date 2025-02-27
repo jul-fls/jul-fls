@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Very%20good%20professional%20programmers%20are%20ten%20times%20as%20productive%20as%20poor%20ones,%20at%20same%20training%20and%20two-year%20experience%20level.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Within%20C++,%20there%20is%20a%20much%20smaller%20and%20cleaner%20language%20struggling%20to%20get%20out.&author=Bjarne%20Stroustrup)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
