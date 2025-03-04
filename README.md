@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20are%20few%20sources%20of%20energy%20so%20powerful%20as%20a%20procrastinating%20grad%20student.&author=Paul%20Graham%20(programmer))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=To%20be%20a%20hacker%20-%20when%20I%20use%20the%20term%20-%20is%20somebody%20who%20is%20creative%20and%20does%20wonderful%20things.&author=Tim%20Berners-Lee)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
