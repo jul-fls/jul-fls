@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=AI%20is%20a%20fundamental%20risk%20to%20the%20existence%20of%20human%20civilization.&author=Elon%20Musk)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20computer%20would%20deserve%20to%20be%20called%20intelligent%20if%20it%20could%20deceive%20a%20human%20into%20believing%20that%20it%20was%20human.&author=Alan%20Turing)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
