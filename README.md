@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=So%20much%20complexity%20in%20software%20comes%20from%20trying%20to%20make%20one%20thing%20do%20two%20things.&author=Ryan%20Singer)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20only%20difference%20between%20a%20FA%20%5Bfinite%20automata%5D%20and%20a%20TM%20%5BTuring%20machine%5D%20is%20that%20the%20TM,%20unlike%20the%20FA,%20has%20paper%20and%20pencil.%20Think%20about%20it.%20It%20tells%20you%20something%20about%20the%20power%20of%20writing.&author=Manuel%20Blum)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
