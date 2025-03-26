@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20framework%20can%20provide%2090%25%20of%20the%20features%20we%20need%20quickly%20%E2%80%94%20giving%20us%20a%20false%20sense%20of%20confidence%20early%20in%20the%20development%20cycle%20%E2%80%94%20and%20then%20be%20frustratingly%20hard%20when%20it%20comes%20to%20implementing%20the%20last%2010%25.&author=Tony%20Parisi%20(software%20developer))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%E2%80%99ve%20got%20this%20need%20to%20program.%20I%20wake%20up%20in%20the%20morning%20with%20sentences%20of%20a%20literate%20program.%20Before%20breakfast%20%E2%80%94%20I%E2%80%99m%20sure%20poets%20must%20feel%20this%20%E2%80%94%20I%20have%20to%20go%20to%20the%20computer%20and%20write%20this%20paragraph%20and%20then%20I%20can%20eat%20and%20I%E2%80%99m%20happy.&author=Donald%20Knuth)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
