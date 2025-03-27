@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%E2%80%99ve%20got%20this%20need%20to%20program.%20I%20wake%20up%20in%20the%20morning%20with%20sentences%20of%20a%20literate%20program.%20Before%20breakfast%20%E2%80%94%20I%E2%80%99m%20sure%20poets%20must%20feel%20this%20%E2%80%94%20I%20have%20to%20go%20to%20the%20computer%20and%20write%20this%20paragraph%20and%20then%20I%20can%20eat%20and%20I%E2%80%99m%20happy.&author=Donald%20Knuth)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=While%20much%20attention%20has%20been%20focused%20on%20high-level%20software%20architectural%20patterns,%20what%20is,%20in%20effect,%20the%20de-facto%20standard%20software%20architecture%20is%20seldom%20discussed:%20the%20Big%20Ball%20of%20Mud.&author=Joseph%20Yoder%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
