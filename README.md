@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Hofstadter's%20Law:%20It%20always%20takes%20longer%20than%20you%20expect,%20even%20when%20you%20take%20into%20account%20Hofstadter's%20Law.&author=P.%20J.%20Plauger)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20cannot%20explain%20a%20program%20to%20yourself,%20the%20chance%20of%20the%0Acomputer%20getting%20it%20right%20is%20pretty%20small.&author=Bob%20Frankston)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
