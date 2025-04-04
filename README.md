@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20think%20the%20best%20way%20to%20make%20JavaScript%20better%20would%20be%20to%0Amake%20it%20smaller.%20If%20we%20could%20just%20get%20it%20down%20to%20what%20it%20does%20really%20well%20and%20remove%20the%20features%20that%20add%20little%20or%20no%20value,%20it%E2%80%99s%20actually%20a%20better%20language.&author=Douglas%20Crockford)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=No%20one%20in%20the%20brief%20history%20of%20computing%20has%20ever%20written%20a%20piece%20of%20perfect%20software.%20It's%20unlikely%20that%20you'll%20be%20the%20first.&author=Andy%20Hunt%20(author))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
