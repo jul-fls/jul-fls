@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=We%20may%20say%20most%20aptly%20that%20the%20Analytical%20Engine%20weaves%20algebraical%20patterns%20just%20as%20the%20Jacquard%20loom%20weaves%20flowers%20and%20leaves.&author=Ada%20Lovelace)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=In%20JavaScript,%20there%20is%20a%20beautiful,%20elegant,%20highly%20expressive%20language%20that%20is%20buried%20under%20a%20steaming%20pile%20of%20good%20intentions%20and%20blunders.&author=Douglas%20Crockford)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
