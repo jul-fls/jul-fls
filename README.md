@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20turns%20out%20that%20there%20is%20no%20algorithm%20for%20examining%20a%20program%20and%20determining%20whether%20or%20not%20it%20is%20fatally%20infected%20with%20an%20endless%20loop.%20Moreover,%20it%E2%80%99s%20not%20that%20no%20one%20has%20yet%20discovered%20such%20an%20algorithm;%20rather,%20no%20such%20algorithm%20is%20possible.&author=Danny%20Hillis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20is%20practically%20impossible%20to%20teach%20good%20programming%20to%20students%20that%20have%20had%20a%20prior%20exposure%20to%20BASIC:%20as%20potential%20programmers%20they%20are%20mentally%20mutilated%20beyond%20hope%20of%20regeneration.&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
