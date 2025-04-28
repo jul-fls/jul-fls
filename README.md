@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sometimes%20there%20is%20a%20silver%20bullet%20for%20boosting%20software%20engineering%20productivity.%20But%20you%20need%20to%20shoot%20the%20right%20person.&author=Michael%20Stal)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Simplicity%20is%20hard%20to%20build,%20easy%20to%20use,%20and%20hard%20to%20charge%20for.%20Complexity%20is%20easy%20to%20build,%20hard%20to%20use,%20and%20easy%20to%20charge%20for.&author=Chris%20Sacca)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
