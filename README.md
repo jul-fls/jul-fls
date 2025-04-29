@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Simplicity%20is%20hard%20to%20build,%20easy%20to%20use,%20and%20hard%20to%20charge%20for.%20Complexity%20is%20easy%20to%20build,%20hard%20to%20use,%20and%20easy%20to%20charge%20for.&author=Chris%20Sacca)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=When%20a%20task%20cannot%20be%20partitioned%20because%20of%20sequential%20constraints,%20the%20application%20of%20more%20effort%20has%20no%20effect%20on%20the%20schedule.%20The%20bearing%20of%20a%20child%20takes%20nine%20months,%20no%20matter%20how%20many%20women%20are%20assigned.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
