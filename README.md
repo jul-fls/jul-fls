@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20new%20idea%20comes%20suddenly%20and%20in%20a%20rather%20intuitive%20way.%20But%20intuition%20is%20nothing%20but%20the%20outcome%20of%20earlier%20intellectual%20experience.&author=Albert%20Einstein)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programming%20is%20programming.%20If%20you%20get%20good%20at%20programming,%20it%20doesn't%20matter%20which%20language%20you%20learned%20it%20in,%20because%20you'll%20be%20able%20to%20do%20programming%20in%20any%20language.&author=Richard%20Stallman)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
