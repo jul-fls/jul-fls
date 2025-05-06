@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20most%20effective%20debugging%20tool%20is%20still%20careful%20thought,%20coupled%20with%20judiciously%20placed%20print%20statements.&author=Brian%20Kernighan)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Beware%20of%20bugs%20in%20the%20above%20code;%20I%20have%20only%20proved%20it%20correct,%20not%20tried%20it.&author=Donald%20Knuth)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
