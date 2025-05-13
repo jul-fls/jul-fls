@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Educators,%20generals,%20dieticians,%20psychologists,%20and%20parents%20program.%20Armies,%20students,%20and%20some%20societies%20are%20programmed.&author=Alan%20Perlis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It's%20fun%20to%20sit%20at%20a%20terminal%20and%20let%20the%20code%20flow.%20It%20sounds%20strange,%20but%20it%20just%20comes%20out%20my%20brain;%20once%20I'm%20started,%20I%20don't%20have%20to%20think%20about%20it.&author=Gary%20Kildall)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
