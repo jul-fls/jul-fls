@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It's%20fun%20to%20sit%20at%20a%20terminal%20and%20let%20the%20code%20flow.%20It%20sounds%20strange,%20but%20it%20just%20comes%20out%20my%20brain;%20once%20I'm%20started,%20I%20don't%20have%20to%20think%20about%20it.&author=Gary%20Kildall)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20main%20activity%20of%20programming%20is%20not%20the%20origination%20of%20new%20independent%20programs,%20but%20in%20the%20integration,%20modification,%20and%20explanation%20of%20existing%20ones.&author=Terry%20Winograd)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
