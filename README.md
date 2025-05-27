@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computers%20are%20the%20most%20complex%20objects%20we%20human%20beings%20have%20ever%20created,%20but%20in%20a%20fundamental%20sense%20they%20are%20remarkably%20simple.&author=Danny%20Hillis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Adding%20people%20to%20a%20software%20project%20increases%20the%20total%20effort%20necessary%20in%20three%20ways:%20the%20work%20and%20disruption%20of%20repartitioning%20itself,%20training%20the%20new%20people,%20and%20added%20intercommunication.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
