@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20business%20of%20software%20building%20isn't%20really%20high-tech%20at%20all.%20It's%20most%20of%20all%20a%20business%20of%20talking%20to%20each%20other%20and%20writing%20things%20down.&author=Tom%20DeMarco)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20fundamental%20problem%20with%20program%20maintenance%20is%20that%20fixing%20a%20defect%20has%20a%20substantial%20(20-50%20percent)%20chance%20of%20introducing%20another.%20So%20the%20whole%20process%20is%20two%20steps%20forward%20and%20one%20step%20back.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
