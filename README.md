@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20want%20more%20effective%20programmers,%20you%20will%20discover%20that%20they%20should%20not%20waste%20their%20time%20debugging,%20they%20should%20not%20introduce%20the%20bugs%20to%20start%20with.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20programmers%20are%20not%20marginally%20better%20than%20merely%20good%20ones.%20They%20are%20an%20order-of-magnitude%20better,%20measured%20by%20whatever%20standard:%20conceptual%20creativity,%20speed,%20ingenuity%20of%20design,%20or%20problem-solving%20ability.&author=Randall%20E.%20Stross)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
