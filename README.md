@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20programmers%20are%20not%20marginally%20better%20than%20merely%20good%20ones.%20They%20are%20an%20order-of-magnitude%20better,%20measured%20by%20whatever%20standard:%20conceptual%20creativity,%20speed,%20ingenuity%20of%20design,%20or%20problem-solving%20ability.&author=Randall%20E.%20Stross)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Having%20a%20system%20architect%20is%20the%20most%20important%20single%20step%20toward%20conceptual%20integrity.%20After%20teaching%20a%20software%20engineering%20laboratory%20more%20than%2020%20times,%20I%20came%20to%20insist%20that%20student%20teams%20as%20small%20as%20four%20people%20choose%20a%20manager%20and%20a%20separate%20architect.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
