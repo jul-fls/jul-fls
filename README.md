@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20should%20be%20noted%20that%20no%20ethically-trained%20software%20engineer%20would%20ever%20consent%20to%20write%20a%20DestroyBaghdad%20procedure.%20Basic%20professional%20ethics%20would%20instead%20require%20him%20to%20write%20a%20DestroyCity%20procedure,%20to%20which%20Baghdad%20could%20be%20given%20as%20a%20parameter.&author=Nathaniel%20Borenstein)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Hal%20Abelson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
