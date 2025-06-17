@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20start%20with%20drawing%20the%20data%20structures,%20and%20I%20spend%20a%20lot%20of%20time%20thinking%20about%20them.%20I%20also%20think%20about%20what%20the%20program%20has%20to%20go%20through%20before%20I%20start%20writing%20code.&author=Gary%20Kildall)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=We%20have%20seen%20that%20computer%20programming%20is%20an%20art,%20because%20it%20applies%20accumulated%20knowledge%20to%20the%20world,%20because%20it%20requires%20skill%20and%20ingenuity,%20and%20especially%20because%20it%20produces%20objects%20of%20beauty.&author=Donald%20Knuth)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
