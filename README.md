@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20business%20of%20software%20building%20isn't%20really%20high-tech%20at%20all.%20It's%20most%20of%20all%20a%20business%20of%20talking%20to%20each%20other%20and%20writing%20things%20down.&author=Tom%20DeMarco)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20only%20difference%20between%20a%20FA%20%5Bfinite%20automata%5D%20and%20a%20TM%20%5BTuring%20machine%5D%20is%20that%20the%20TM,%20unlike%20the%20FA,%20has%20paper%20and%20pencil.%20Think%20about%20it.%20It%20tells%20you%20something%20about%20the%20power%20of%20writing.&author=Manuel%20Blum)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
