@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20only%20difference%20between%20a%20FA%20%5Bfinite%20automata%5D%20and%20a%20TM%20%5BTuring%20machine%5D%20is%20that%20the%20TM,%20unlike%20the%20FA,%20has%20paper%20and%20pencil.%20Think%20about%20it.%20It%20tells%20you%20something%20about%20the%20power%20of%20writing.&author=Manuel%20Blum)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20team%20of%20highly%20competent%20programmers%20who%20are%20also%20highly%20territorial,%20egotistical%20politicians%20will%20fail%20while%20a%20team%20of%20equally%20competent%20programmers,%20who%20are%20also%20egoless,%20cooperative,%20team%20players%20will%20succeed.&author=Daniel%20T.%20Barry)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
