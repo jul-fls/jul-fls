@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Whenever%20logical%20processes%20of%20thought%20are%20employed,%20there%20is%20an%20opportunity%20for%20the%20machine.&author=Vannevar%20Bush)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=First%20do%20it,%20then%20do%20it%20right,%20then%20do%20it%20better.&author=Addy%20Osmani)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
