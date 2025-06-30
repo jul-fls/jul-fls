@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=First%20do%20it,%20then%20do%20it%20right,%20then%20do%20it%20better.&author=Addy%20Osmani)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=You%20should%20name%20a%20variable%20using%20the%20same%20care%20with%20which%20you%20name%20a%20first-born%20child.&author=Jim%20Coplien)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
