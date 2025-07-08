@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=In%20fact,%20in%20the%201980s%20I%20often%20came%20across%20newly%20graduated%20computer%20science%20majors%20who%20had%20never%20seen%20a%20real%20program%20in%20their%20lives.%20They%20had%20only%20seen%20toy%20exercises,%20school%20exercises,%20because%20every%20real%20program%20was%20a%20trade%20secret.&author=Richard%20Stallman)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=An%20organisation%20that%20treats%20its%20programmers%20as%20morons%20will%20soon%20have%20programmers%20that%20are%20willing%20and%20able%20to%20act%20like%20morons%20only.&author=Bjarne%20Stroustrup)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
