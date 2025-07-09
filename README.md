@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=An%20organisation%20that%20treats%20its%20programmers%20as%20morons%20will%20soon%20have%20programmers%20that%20are%20willing%20and%20able%20to%20act%20like%20morons%20only.&author=Bjarne%20Stroustrup)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20always%20spend%20a%20day%20a%20week%20learning%20new%20stuff.%20That%20means%20I%20spend%2020%25%20more%20of%20my%20time%20than%20my%20colleagues%20learning%20new%20stuff.%20Now%2020%25%20at%20compound%20interest%20means%20that%20after%20four%20and%20a%20half%20years%20I%20will%20know%20twice%20as%20much%20as%20them.&author=Richard%20Hamming)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
