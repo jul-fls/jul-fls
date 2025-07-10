@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20always%20spend%20a%20day%20a%20week%20learning%20new%20stuff.%20That%20means%20I%20spend%2020%25%20more%20of%20my%20time%20than%20my%20colleagues%20learning%20new%20stuff.%20Now%2020%25%20at%20compound%20interest%20means%20that%20after%20four%20and%20a%20half%20years%20I%20will%20know%20twice%20as%20much%20as%20them.&author=Richard%20Hamming)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Very%20good%20professional%20programmers%20are%20ten%20times%20as%20productive%20as%20poor%20ones,%20at%20same%20training%20and%20two-year%20experience%20level.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
