@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20is%20not%20the%20task%20of%20the%20University%20to%20offer%20what%20society%20asks%20for,%20but%20to%20give%20what%20society%20needs.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=One%20of%20the%20greatest%20joys%20in%20computer%20programming%20is%20discovering%20a%20new,%20faster,%20more%20efficient%20algorithm%20for%20doing%20something%20%E2%80%94%20particularly%20if%20a%20lot%20of%20well-respected%20people%20have%20come%20up%20with%20worse%20solutions.&author=Danny%20Hillis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
