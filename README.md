@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=JavaScript,%20purely%20by%20accident,%20has%20become%20the%20most%20popular%20programming%20language%20in%20the%20world.&author=Douglas%20Crockford)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20start%20removing%20things,%20if%20you%20get%20to%20the%20point%20where%20if%20you%20were%20to%20remove%20anything%20more%20it%20would%20not%20work%20any%20more%20%E2%80%94%20at%20this%20point%20it%20is%20beautiful.&author=Joe%20Armstrong%20(programmer))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
