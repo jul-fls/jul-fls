@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20beautiful%20program%20is%20like%20a%20beautiful%20theorem:%20It%20does%20the%20job%20elegantly.&author=Butler%20Lampson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20idea%20behind%20digital%20computers%20may%20be%20explained%20by%20saying%20that%20these%20machines%20are%20intended%20to%20carry%20out%20any%20operations%20which%20could%20be%20done%20by%20a%20human%20computer.&author=Alan%20Turing)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
