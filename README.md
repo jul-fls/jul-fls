@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Study%20after%20study%20shows%20that%20the%20very%20best%20designers%20produce%20structures%20that%20are%20faster,%20smaller,%20simpler,%20cleaner,%20and%20produced%20with%20less%20effort.%20The%20differences%20between%20the%20great%20and%20the%20average%20approach%20an%20order%20of%20magnitude.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20give%20someone%20a%20program,%20you%20will%20frustrate%20them%20for%20a%20day;%20if%20you%20teach%20them%20how%20to%20program,%20you%20will%20frustrate%20them%20for%20a%20lifetime.&author=David%20Leinweber)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
