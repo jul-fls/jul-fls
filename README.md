@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20free%20software%20community%20rejects%20the%20%E2%80%9Cpriesthood%20of%20technology%E2%80%9D,%20which%20keeps%20the%20general%20public%20in%20ignorance%20of%20how%20technology%20works;%20we%20encourage%20students%20of%20any%20age%20and%20situation%20to%20read%20the%20source%20code%20and%20learn%20as%20much%20as%20they%20want%20to%20know.&author=Richard%20Stallman)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Chemical%20engineers%20learned%20long%20ago%20that%20a%20process%20that%20works%20in%20the%20laboratory%20cannot%20be%20implemented%20in%20a%20factory%20in%20only%20one%20step.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
