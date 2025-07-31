@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20most%20important%20thing%20is%20to%20be%20able%20to%20think%20what%20you%20want,%20not%20to%20say%20what%20you%20want.&author=Paul%20Graham%20(programmer))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20general%20tendency%20is%20to%20over-design%20the%20second%20system,%20using%20all%20the%20ideas%20and%20frills%20that%20were%20cautiously%20sidetracked%20on%20the%20first%20one.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
