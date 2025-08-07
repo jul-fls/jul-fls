@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=No%20matter%20how%20correct%20a%20mathematical%20theorem%20may%20appear%20to%20be,%20one%20ought%20never%20to%20be%20satisfied%20that%20there%20was%20not%20something%20imperfect%20about%20it%20until%20it%20also%20gives%20the%20impression%20of%20being%20beautiful.&author=George%20Boole)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=When%20I%20am%20working%20on%20a%20problem%20I%20never%20think%20about%20beauty.%20I%20think%20only%20how%20to%20solve%20the%20problem.%20But%20when%20I%20have%20finished,%20if%20the%20solution%20is%20not%20beautiful,%20I%20know%20it%20is%20wrong.&author=Buckminster%20Fuller)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
