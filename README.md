@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=When%20I%20am%20working%20on%20a%20problem%20I%20never%20think%20about%20beauty.%20I%20think%20only%20how%20to%20solve%20the%20problem.%20But%20when%20I%20have%20finished,%20if%20the%20solution%20is%20not%20beautiful,%20I%20know%20it%20is%20wrong.&author=Buckminster%20Fuller)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20is%20not%20only%20a%20close%20analogy%20between%20the%20operations%20of%20the%20mind%20in%20general%20reasoning%20and%20its%20operations%20in%20the%20particular%20science%20of%20Algebra,%20but%20there%20is%20to%20a%20considerable%20extent%20an%20exact%20agreement%20in%20the%20laws%20by%20which%20the%20two%20classes%20of%20operations%20are%20conducted.&author=George%20Boole)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
