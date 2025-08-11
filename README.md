@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20is%20not%20only%20a%20close%20analogy%20between%20the%20operations%20of%20the%20mind%20in%20general%20reasoning%20and%20its%20operations%20in%20the%20particular%20science%20of%20Algebra,%20but%20there%20is%20to%20a%20considerable%20extent%20an%20exact%20agreement%20in%20the%20laws%20by%20which%20the%20two%20classes%20of%20operations%20are%20conducted.&author=George%20Boole)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=We%20could,%20for%20instance,%20begin%20with%20cleaning%20up%20our%20language%20by%20no%20longer%20calling%20a%20bug%20a%20bug%20but%20by%20calling%20it%20an%20error.%20It%20is%20much%20more%20honest%20because%20it%20squarely%20puts%20the%20blame%20where%20it%20belongs,%20viz.%20with%20the%20programmer%20who%20made%20the%20error.%20The%20animistic%20metaphor%20of%20the%20bug%20that%20maliciously%20sneaked%20in%20while%20the%20programmer%20was%20not%20looking%20is%20intellectually%20dishonest%20as%20it%20disguises%20that%20the%20error%20is%20the%20programmer's%20own%20creation.%20The%20nice%20thing%20of%20this%20simple%20change%20of%20vocabulary%20is%20that%20it%20has%20such%20a%20profound%20effect:%20while,%20before,%20a%20program%20with%20only%20one%20bug%20used%20to%20be%20%22almost%20correct%22,%20afterwards%20a%20program%20with%20an%20error%20is%20just%20%22wrong%22.&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
