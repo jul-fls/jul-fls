@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=We%20could,%20for%20instance,%20begin%20with%20cleaning%20up%20our%20language%20by%20no%20longer%20calling%20a%20bug%20a%20bug%20but%20by%20calling%20it%20an%20error.%20It%20is%20much%20more%20honest%20because%20it%20squarely%20puts%20the%20blame%20where%20it%20belongs,%20viz.%20with%20the%20programmer%20who%20made%20the%20error.%20The%20animistic%20metaphor%20of%20the%20bug%20that%20maliciously%20sneaked%20in%20while%20the%20programmer%20was%20not%20looking%20is%20intellectually%20dishonest%20as%20it%20disguises%20that%20the%20error%20is%20the%20programmer's%20own%20creation.%20The%20nice%20thing%20of%20this%20simple%20change%20of%20vocabulary%20is%20that%20it%20has%20such%20a%20profound%20effect:%20while,%20before,%20a%20program%20with%20only%20one%20bug%20used%20to%20be%20%22almost%20correct%22,%20afterwards%20a%20program%20with%20an%20error%20is%20just%20%22wrong%22.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20make%20mistakes%20because%20I%E2%80%99m%20always%20operating%20at%20my%20limit.%20If%20I%20only%20stay%20in%20comfortable%20territory%20all%20the%20time,%20that%E2%80%99s%20not%20so%20much%20fun.&author=Donald%20Knuth)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
