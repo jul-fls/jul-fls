@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20make%20mistakes%20because%20I%E2%80%99m%20always%20operating%20at%20my%20limit.%20If%20I%20only%20stay%20in%20comfortable%20territory%20all%20the%20time,%20that%E2%80%99s%20not%20so%20much%20fun.&author=Donald%20Knuth)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=What%20is%20simplicity?%20Simplicity%20is%20the%20shortest%20path%20to%20a%20solution.&author=Ward%20Cunningham)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
