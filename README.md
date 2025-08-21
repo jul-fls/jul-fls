@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20way%20to%20arrest%20entropy%20in%20software%20is%20to%20refactor%20it.&author=Joseph%20Yoder%20(computer%20scientist))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=In%20my%20second%20year%20in%20graduate%20school,%20I%20took%20a%20computer%20course%20and%20that%20was%20like%20lightening%20striking.&author=Ted%20Nelson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
