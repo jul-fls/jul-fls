@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=First,%20my%20wife,%20my%20colleagues,%20and%20my%20editors%20find%20me%20to%20err%20far%20more%20often%20in%20optimism%20than%20in%20pessimism.%20I%20am,%20after%20all,%20a%20programmer%20by%20background,%20and%20optimism%20is%20an%20occupational%20disease%20of%20our%20craft.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=When%20you%20find%20you%20have%20to%20add%20a%20feature%20to%20a%20program,%20and%20the%20program's%20code%20is%20not%20structured%20in%20a%20convenient%20way%20to%20add%20the%20feature,%20first%20refactor%20the%20program%20to%20make%20it%20easy%20to%20add%20the%20feature,%20then%20add%20the%20feature.&author=Kent%20Beck)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
