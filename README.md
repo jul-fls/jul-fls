@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=In%20my%20second%20year%20in%20graduate%20school,%20I%20took%20a%20computer%20course%20and%20that%20was%20like%20lightening%20striking.&author=Ted%20Nelson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20is%20an%20amazing%20commonality%20in%20the%20types%20of%20difficulties%20you%20run%20into.%20In%20design%20reviews,%20I%20really%20enjoy%20being%20able%20to%20provide%20advice,%20based%20on%20programs%20that%20I%20have%20done.&author=Bill%20Gates)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
