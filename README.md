@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Young%20man,%20in%20mathematics%20you%20don't%20understand%20things.%20You%20just%20get%20used%20to%20them.&author=John%20von%20Neumann)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Really%20good%20programs%20live%20forever.&author=Charles%20Simonyi)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
