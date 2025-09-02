@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Don't%20blame%20me%20for%20the%20fact%20that%20competent%20programming%20will%20be%20too%20difficult%20for%20%22the%20average%20programmer%22%20%E2%80%94%20you%20must%20not%20fall%20into%20the%20trap%20of%20rejecting%20a%20surgical%20technique%20because%20it%20is%20beyond%20the%20capabilities%20of%20the%20barber%20in%20his%20shop%20around%20the%20corner.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=When%20I%20am%20working%20on%20a%20problem%20I%20never%20think%20about%20beauty.%20I%20think%20only%20how%20to%20solve%20the%20problem.%20But%20when%20I%20have%20finished,%20if%20the%20solution%20is%20not%20beautiful,%20I%20know%20it%20is%20wrong.&author=Buckminster%20Fuller)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
