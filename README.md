@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=In%20handling%20resources,%20strive%20to%20avoid%20disaster%20rather%20than%20to%20attain%20an%20optimum.&author=Butler%20Lampson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Instead%20of%20the%20progression%20of%20tens,%20I%20have%20for%20many%20years%20used%20the%20simplest%20progression%20of%20all,%20which%20proceeds%20by%20twos,%20having%20found%20that%20it%20is%20useful%20for%20the%20perfection%20of%20the%20science%20of%20numbers.&author=Gottfried%20Wilhelm%20Leibniz)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
