@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20mean,%20if%2010%20years%20from%20now,%20when%20you%20are%20doing%20something%20quick%20and%20dirty,%20you%20suddenly%20visualize%20that%20I%20am%20looking%20over%20your%20shoulders%20and%20say%20to%20yourself%20%22Dijkstra%20would%20not%20have%20liked%20this%22,%20well,%20that%20would%20be%20enough%20immortality%20for%20me.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%E2%80%99s%20all%20talk%20until%20the%20code%20runs.&author=Ward%20Cunningham)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
