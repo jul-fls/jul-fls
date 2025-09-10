@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%E2%80%99s%20all%20talk%20until%20the%20code%20runs.&author=Ward%20Cunningham)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=People%20under%20pressure%20don%E2%80%99t%20work%20better;%20they%20just%20work%20faster.&author=Tom%20DeMarco)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
