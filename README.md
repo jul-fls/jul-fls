@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=People%20under%20pressure%20don%E2%80%99t%20work%20better;%20they%20just%20work%20faster.&author=Tom%20DeMarco)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Various%20studies%20indicate%20that%20the%20optimal%20team%20size%20is%20between%202%20and%205,%20with%203%20being%20the%20mode.%20With%20more%20than%205%20team%20members,%20team%20management%20begins%20to%20dominate%20the%20work.&author=Daniel%20T.%20Barry)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
