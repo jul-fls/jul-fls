@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20programmer%20who%20subconsciously%20views%20himself%20as%20an%20artist%20will%20enjoy%20what%20he%20does%20and%20will%20do%20it%20better.&author=Donald%20Knuth)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20book%20on%20programming%20for%20the%20layman%20is%20Alice%20in%20Wonderland,%20but%20that's%20because%20it's%20the%20best%20book%20on%20anything%20for%20the%20layman.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
