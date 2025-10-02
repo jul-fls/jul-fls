@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programming%20is%20similar%20to%20a%20game%20of%20golf.%20The%20point%20is%20not%20getting%20the%20ball%20in%20the%20hole%20but%20how%20many%20strokes%20it%20takes.&author=Harlan%20Mills)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I'm%20doing%20a%20free%20operating%20system%20(just%20a%20hobby,%20won't%20be%20big%20and%20professional%20like%20GNU).&author=Linus%20Torvalds)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
