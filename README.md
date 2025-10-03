@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I'm%20doing%20a%20free%20operating%20system%20(just%20a%20hobby,%20won't%20be%20big%20and%20professional%20like%20GNU).&author=Linus%20Torvalds)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Less%20code%20equals%20less%20bugs.&author=Kevlin%20Henney)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
