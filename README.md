@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.&author=Arthur%20C.%20Clarke)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Are%20you%20quite%20sure%20that%20all%20those%20bells%20and%20whistles,%20all%20those%20wonderful%20facilities%20of%20your%20so%20called%20powerful%20programming%20languages,%20belong%20to%20the%20solution%20set%20rather%20than%20the%20problem%20set?&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
