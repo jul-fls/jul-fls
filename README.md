@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Are%20you%20quite%20sure%20that%20all%20those%20bells%20and%20whistles,%20all%20those%20wonderful%20facilities%20of%20your%20so%20called%20powerful%20programming%20languages,%20belong%20to%20the%20solution%20set%20rather%20than%20the%20problem%20set?&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20few%20months%20writing%20code%20can%20save%20you%20a%20few%20hours%20in%20design.&author=Anonymous)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
