@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20make%20mistakes%20because%20I%E2%80%99m%20always%20operating%20at%20my%20limit.%20If%20I%20only%20stay%20in%20comfortable%20territory%20all%20the%20time,%20that%E2%80%99s%20not%20so%20much%20fun.&author=Donald%20Knuth)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Having%20a%20system%20architect%20is%20the%20most%20important%20single%20step%20toward%20conceptual%20integrity.%20After%20teaching%20a%20software%20engineering%20laboratory%20more%20than%2020%20times,%20I%20came%20to%20insist%20that%20student%20teams%20as%20small%20as%20four%20people%20choose%20a%20manager%20and%20a%20separate%20architect.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
