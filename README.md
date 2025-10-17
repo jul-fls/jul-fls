@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20errors%20which%20arise%20from%20the%20absence%20of%20facts%20are%20far%20more%20numerous%20and%20more%20durable%20than%20those%20which%20result%20from%20unsound%20reasoning%20respecting%20true%20data.&author=Charles%20Babbage)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20is%20no%20programming%20language,%20no%20matter%20how%20structured,%20that%20will%20prevent%20programmers%20from%20making%20bad%20programs.&author=Lawrence%20Flon)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
