@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20is%20no%20programming%20language,%20no%20matter%20how%20structured,%20that%20will%20prevent%20programmers%20from%20making%20bad%20programs.&author=Lawrence%20Flon)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20science%20of%20operations,%20as%20derived%20from%20mathematics%20more%20especially,%20is%20a%20science%20of%20itself,%20and%20has%20its%20own%20abstract%20truth%20and%20value.&author=Ada%20Lovelace)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
