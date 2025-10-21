@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20science%20of%20operations,%20as%20derived%20from%20mathematics%20more%20especially,%20is%20a%20science%20of%20itself,%20and%20has%20its%20own%20abstract%20truth%20and%20value.&author=Ada%20Lovelace)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20is%20hard%20to%20think%20that%20a%20$2%20billion%20company%20with%204,300-plus%20people%20couldn't%20compete%20with%20six%20people%20in%20blue%20jeans.&author=Steve%20Jobs)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
