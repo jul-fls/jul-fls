@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20distributed%20system%20is%20one%20in%20which%20the%20failure%20of%20a%20computer%20you%20didn%E2%80%99t%20even%20know%20existed%20can%20render%20your%20own%20computer%20unusable.&author=Leslie%20Lamport)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20stupid%20error%20is%20an%20algorithmically%20avoidable%20error.%20Mainly,%20you%20are%20stupid%20if%20you%20let%20an%20error%20that%20a%20program%20can%20detect%20go%20undetected.&author=Daniel%20T.%20Barry)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
