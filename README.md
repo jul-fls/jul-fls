@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20stupid%20error%20is%20an%20algorithmically%20avoidable%20error.%20Mainly,%20you%20are%20stupid%20if%20you%20let%20an%20error%20that%20a%20program%20can%20detect%20go%20undetected.&author=Daniel%20T.%20Barry)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Nobody%20knows%20how%20to%20build%20really%20complicated%20hardware%20systems,%20so%20designing%20hardware%20tends%20to%20be%20simpler.%20Software%20is%20much%20more%20complicated.&author=Butler%20Lampson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
