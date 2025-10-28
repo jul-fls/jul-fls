@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Nobody%20knows%20how%20to%20build%20really%20complicated%20hardware%20systems,%20so%20designing%20hardware%20tends%20to%20be%20simpler.%20Software%20is%20much%20more%20complicated.&author=Butler%20Lampson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Should%20array%20indices%20start%20at%200%20or%201?%20My%20compromise%20of%200.5%20was%20rejected%20without,%20I%20thought,%20proper%20consideration.&author=Stan%20Kelly-Bootle)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
