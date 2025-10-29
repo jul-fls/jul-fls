@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Should%20array%20indices%20start%20at%200%20or%201?%20My%20compromise%20of%200.5%20was%20rejected%20without,%20I%20thought,%20proper%20consideration.&author=Stan%20Kelly-Bootle)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It's%20not%20so%20important%20what%20you%20work%20on,%20so%20long%20as%20you're%20not%20wasting%20your%20time.&author=Paul%20Graham%20(programmer))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
