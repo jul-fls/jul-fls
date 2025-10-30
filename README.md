@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It's%20not%20so%20important%20what%20you%20work%20on,%20so%20long%20as%20you're%20not%20wasting%20your%20time.&author=Paul%20Graham%20(programmer))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=No%20matter%20how%20slow%20you%20are%20writing%20clean%20code,%20you%20will%20always%20be%20slower%20if%20you%20make%20a%20mess.&author=Robert%20C.%20Martin)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
