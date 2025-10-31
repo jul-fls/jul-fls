@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=No%20matter%20how%20slow%20you%20are%20writing%20clean%20code,%20you%20will%20always%20be%20slower%20if%20you%20make%20a%20mess.&author=Robert%20C.%20Martin)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=One%20man's%20constant%20is%20another%20man's%20variable.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
