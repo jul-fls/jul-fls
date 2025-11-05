@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programming%20can%20be%20addictive.&author=Bob%20Carr)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20large%20part%20of%20mathematics%20which%20becomes%20useful%20developed%20with%20absolutely%20no%20desire%20to%20be%20useful,%20and%20in%20a%20situation%20where%20nobody%20could%20possibly%20know%20in%20what%20area%20it%20would%20become%20useful.&author=John%20von%20Neumann)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
