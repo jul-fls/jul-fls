@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Shipping%20first%20time%20code%20is%20like%20going%20into%20debt.%20A%20little%20debt%20speeds%20development%20so%20long%20as%20it%20is%20paid%20back%20promptly%20with%20a%20rewrite.%20The%20danger%20occurs%20when%20the%20debt%20is%20not%20repaid.%20Every%20minute%20spent%20on%20not-quite-right%20code%20counts%20as%20interest%20on%20that%20debt.%20Entire%20engineering%20organizations%20can%20be%20brought%20to%20a%20stand-still%20under%20the%20technical%20debt%20load.&author=Ward%20Cunningham)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Anyone%20who%20has%20ever%20written%20a%20program%20knows%20that%20telling%20a%20computer%20what%20you%20want%20it%20to%20do%20is%20not%20as%20easy%20as%20it%20sounds.%20Every%20detail%20of%20the%20computer%E2%80%99s%20desired%20operation%20must%20be%20precisely%20described.%20For%20instance,%20if%20you%20tell%20an%20accounting%20program%20to%20bill%20your%20clients%20for%20the%20amount%20that%20each%20owes,%20then%20the%20computer%20will%20send%20out%20a%20weekly%20bill%20for%20$0.00%20to%20clients%20who%20owe%20nothing.&author=Danny%20Hillis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
