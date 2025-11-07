@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Anyone%20who%20has%20ever%20written%20a%20program%20knows%20that%20telling%20a%20computer%20what%20you%20want%20it%20to%20do%20is%20not%20as%20easy%20as%20it%20sounds.%20Every%20detail%20of%20the%20computer%E2%80%99s%20desired%20operation%20must%20be%20precisely%20described.%20For%20instance,%20if%20you%20tell%20an%20accounting%20program%20to%20bill%20your%20clients%20for%20the%20amount%20that%20each%20owes,%20then%20the%20computer%20will%20send%20out%20a%20weekly%20bill%20for%20$0.00%20to%20clients%20who%20owe%20nothing.&author=Danny%20Hillis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20general%20tendency%20is%20to%20over-design%20the%20second%20system,%20using%20all%20the%20ideas%20and%20frills%20that%20were%20cautiously%20sidetracked%20on%20the%20first%20one.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
