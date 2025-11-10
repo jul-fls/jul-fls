@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20general%20tendency%20is%20to%20over-design%20the%20second%20system,%20using%20all%20the%20ideas%20and%20frills%20that%20were%20cautiously%20sidetracked%20on%20the%20first%20one.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Mental%20qualities%20peculiar%20to%20human-like%20motivational%20structures,%20such%20as%20love%20and%20hate,%20will%20not%20be%20required%20for%20intelligent%20behavior,%20but%20we%20could%20probably%20program%20computers%20to%20exhibit%20them%20if%20we%20wanted%20to.&author=John%20McCarthy%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
