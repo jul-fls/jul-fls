@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Mental%20qualities%20peculiar%20to%20human-like%20motivational%20structures,%20such%20as%20love%20and%20hate,%20will%20not%20be%20required%20for%20intelligent%20behavior,%20but%20we%20could%20probably%20program%20computers%20to%20exhibit%20them%20if%20we%20wanted%20to.&author=John%20McCarthy%20(computer%20scientist))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Perhaps%20the%20central%20problem%20we%20face%20in%20all%20of%20computer%20science%20is%20how%20we%20are%20to%20get%20to%20the%20situation%20where%20we%20build%20on%20top%20of%20the%20work%20of%20others%20rather%20than%20redoing%20so%20much%20of%20it%20in%20a%20trivially%20different%20way.&author=Richard%20Hamming)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
