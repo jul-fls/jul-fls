@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Perhaps%20the%20central%20problem%20we%20face%20in%20all%20of%20computer%20science%20is%20how%20we%20are%20to%20get%20to%20the%20situation%20where%20we%20build%20on%20top%20of%20the%20work%20of%20others%20rather%20than%20redoing%20so%20much%20of%20it%20in%20a%20trivially%20different%20way.&author=Richard%20Hamming)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computer%20languages%20of%20the%20future%20will%20be%20more%20concerned%20with%20goals%20and%20less%20with%20procedures%20specified%20by%20the%20programmer.&author=Marvin%20Minsky)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
