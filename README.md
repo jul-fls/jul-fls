@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computer%20languages%20of%20the%20future%20will%20be%20more%20concerned%20with%20goals%20and%20less%20with%20procedures%20specified%20by%20the%20programmer.&author=Marvin%20Minsky)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20only%20sin%20is%20to%20make%20a%20choice%20without%20knowing%20you%20are%20making%20one.&author=Jonathan%20Shewchuk)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
