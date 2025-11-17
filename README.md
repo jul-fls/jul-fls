@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=On%20two%20occasions%20I%20have%20been%20asked%20%5Bby%20members%20of%20Parliament%5D:%20%22Pray,%20Mr.%20Babbage,%20if%20you%20put%20into%20the%20machine%20wrong%20figures,%20will%20the%20right%20answers%20come%20out?%22%20I%20am%20not%20able%20rightly%20to%20apprehend%20the%20kind%20of%20confusion%20of%20ideas%20that%20could%20provoke%20such%20a%20question.&author=Charles%20Babbage)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sackman,%20Erickson,%20and%20Grant%20were%20measuring%20performance%20of%20a%20group%20of%20experienced%20programmers.%20Within%20just%20this%20group%20the%20ratios%20between%20the%20best%20and%20worst%20performances%20averaged%20about%2010:1%20on%20productivity%20measurements%20and%20an%20amazing%205:1%20on%20program%20speed%20and%20space%20measurements!&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
