@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20can%20get%20today%E2%80%99s%20work%20done%20today,%20but%20you%20do%20it%20in%20such%20a%20way%20that%20you%20can%E2%80%99t%20possibly%20get%20tomorrow%E2%80%99s%20work%20done%20tomorrow,%20then%20you%20lose.&author=Martin%20Fowler)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sadly,%20architecture%20has%20been%20undervalued%20for%20so%20long%20that%20many%20engineers%20regard%20life%20with%20a%20Big%20Ball%20of%20Mud%20as%20normal.&author=Joseph%20Yoder%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
