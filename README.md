@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20need%20more%20than%203%20levels%20of%20indentation,%20you're%20screwed%20anyway,%20and%20should%20fix%20your%20program.&author=Linus%20Torvalds)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20can%20build%20a%20reliable%20system%20with%20thousands%20of%20bugs,%20if%20you%20let%20me%20choose%20my%20bugs%20carefully.&author=David%20Parnas)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
