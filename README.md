@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20can%20build%20a%20reliable%20system%20with%20thousands%20of%20bugs,%20if%20you%20let%20me%20choose%20my%20bugs%20carefully.&author=David%20Parnas)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20people%20do%20not%20believe%20that%20mathematics%20is%20simple,%20it%20is%20only%20because%20they%20do%20not%20realize%20how%20complicated%20life%20is.&author=John%20von%20Neumann)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
