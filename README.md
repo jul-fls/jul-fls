@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Within%20C++,%20there%20is%20a%20much%20smaller%20and%20cleaner%20language%20struggling%20to%20get%20out.&author=Bjarne%20Stroustrup)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=One%20must%20assume%20that%20there%20will%20be%20lots%20of%20bugs,%20and%20plan%20an%20orderly%20procedure%20for%20snaking%20them%20out.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
