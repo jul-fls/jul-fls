@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Any%20intelligent%20fool%20can%20make%20things%20bigger,%20more%20complex,%20and%20more%20violent.%20It%20takes%20a%20touch%20of%20genius%20%E2%80%93%20and%20a%20lot%20of%20courage%20%E2%80%93%20to%20move%20in%20the%20opposite%20direction.&author=Albert%20Einstein)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Every%20time%20you%20improve%20process,%20work%20becomes%20harder.&author=Daniel%20T.%20Barry)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
