@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=On%20two%20occasions%20I%20have%20been%20asked%20%5Bby%20members%20of%20Parliament%5D:%20%22Pray,%20Mr.%20Babbage,%20if%20you%20put%20into%20the%20machine%20wrong%20figures,%20will%20the%20right%20answers%20come%20out?%22%20I%20am%20not%20able%20rightly%20to%20apprehend%20the%20kind%20of%20confusion%20of%20ideas%20that%20could%20provoke%20such%20a%20question.&author=Charles%20Babbage)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20code%20you%20write%20makes%20you%20a%20programmer.%20The%20code%20you%20delete%20makes%20you%20a%20good%20one.%20The%20code%20you%20don't%20have%20to%20write%20makes%20you%20a%20great%20one.&author=Mario%20Fusco)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
