@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20code%20you%20write%20makes%20you%20a%20programmer.%20The%20code%20you%20delete%20makes%20you%20a%20good%20one.%20The%20code%20you%20don't%20have%20to%20write%20makes%20you%20a%20great%20one.&author=Mario%20Fusco)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=We%20who%20cut%20mere%20stones%20must%20always%20be%20envisioning%20cathedrals.&author=Quarry%20worker's%20creed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
