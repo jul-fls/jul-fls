@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=We%20who%20cut%20mere%20stones%20must%20always%20be%20envisioning%20cathedrals.&author=Quarry%20worker's%20creed)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Because%20of%20optimism,%20we%20usually%20expect%20the%20number%20of%20bugs%20to%20be%20smaller%20than%20it%20turns%20out%20to%20be.%20Therefore%20testing%20is%20usually%20the%20most%20mis-scheduled%20part%20of%20programming.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
