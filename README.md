@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Often%20designers%20do%20complicated%20things%20that%20improve%20the%20capacity%20on%20a%20particular%20hardware%20platform%20when%20it%20might%20actually%20be%20cheaper%20to%20buy%20more%20hardware.&author=Martin%20Fowler)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20design%20of%20the%20following%20treatise%20is%20to%20investigate%20the%20fundamental%20laws%20of%20those%20operations%20of%20the%20mind%20by%20which%20reasoning%20is%20performed;%20to%20give%20expression%20to%20them%20in%20the%20symbolical%20language%20of%20a%20Calculus,%20and%20upon%20this%20foundation%20to%20establish%20the%20science%20of%20Logic%20and%20construct%20its%20method.&author=George%20Boole)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
