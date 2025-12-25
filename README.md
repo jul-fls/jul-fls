@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Communication%20must%20be%20stateless%20in%20nature,%20such%20that%20each%20request%20from%20client%20to%20server%20must%20contain%20all%20of%20the%20information%20necessary%20to%20understand%20the%20request,%20and%20cannot%20take%20advantage%20of%20any%20stored%20context%20on%20the%20server.&author=Roy%20Fielding)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20year%20spent%20in%20artificial%20intelligence%20is%20enough%20to%20make%20one%20believe%20in%20God.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
