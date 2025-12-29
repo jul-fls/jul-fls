@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=No%20one%20in%20the%20brief%20history%20of%20computing%20has%20ever%20written%20a%20piece%20of%20perfect%20software.%20It's%20unlikely%20that%20you'll%20be%20the%20first.&author=Andy%20Hunt%20(author))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20new%20idea%20comes%20suddenly%20and%20in%20a%20rather%20intuitive%20way.%20But%20intuition%20is%20nothing%20but%20the%20outcome%20of%20earlier%20intellectual%20experience.&author=Albert%20Einstein)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
