@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20are%20two%20ways%20of%20constructing%20a%20software%20design:%20One%20way%20is%20to%20make%20it%20so%20simple%20that%20there%20are%20obviously%20no%20deficiencies,%20and%20the%20other%20way%20is%20to%20make%20it%20so%20complicated%20that%20there%20are%20no%20obvious%20deficiencies.%20The%20first%20method%20is%20far%20more%20difficult.&author=Tony%20Hoare)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20book%20on%20programming%20for%20the%20layman%20is%20Alice%20in%20Wonderland,%20but%20that's%20because%20it's%20the%20best%20book%20on%20anything%20for%20the%20layman.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
