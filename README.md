@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I'm%20interested%20in%20creating%20images%20that%20communicate%20with%20people.&author=Toru%20Iwatani)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Controlling%20complexity%20is%20the%20essence%20of%20computer%20programming.&author=Brian%20Kernighan)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
