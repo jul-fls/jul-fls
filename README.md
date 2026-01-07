@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=What%20a%20computer%20is%20to%20me%20is%20it's%20the%20most%20remarkable%20tool%20that%20we%20have%20ever%20come%20up%20with.%20It's%20the%20equivalent%20of%20a%20bicycle%20for%20our%20minds.&author=Steve%20Jobs)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20most%20amazing%20achievement%20of%20the%20computer%20software%20industry%20is%20its%20continuing%20cancellation%20of%20the%20steady%20and%20staggering%20gains%20made%20by%20the%20computer%20hardware%20industry.&author=Henry%20Petroski)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
