@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Humanity%20is%20acquiring%20all%20the%20right%20technology%20for%20all%20the%20wrong%20reasons.&author=Buckminster%20Fuller)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20cheapest,%20fastest,%20and%20most%20reliable%20components%20are%20those%20that%20aren%E2%80%99t%20there.&author=Gordon%20Bell)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
