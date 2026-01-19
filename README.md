@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=People%20are%20mistaken%20when%20they%20think%20that%20technology%20just%20automatically%20improves.%20It%20does%20not%20automatically%20improve.%20It%20only%20improves%20if%20a%20lot%20of%20people%20work%20very%20hard%20to%20make%20it%20better,%20and%20actually%20it%20will,%20I%20think,%20by%20itself%20degrade,%20actually.&author=Elon%20Musk)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20fundamental%20problem%20with%20program%20maintenance%20is%20that%20fixing%20a%20defect%20has%20a%20substantial%20(20-50%20percent)%20chance%20of%20introducing%20another.%20So%20the%20whole%20process%20is%20two%20steps%20forward%20and%20one%20step%20back.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
