@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20hardest%20part%20of%20design%20is%20keeping%20features%20out.&author=Don%20Norman)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I'm%20not%20a%20great%20programmer;%20I'm%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
