@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I'm%20not%20a%20great%20programmer;%20I'm%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Adding%20people%20to%20a%20software%20project%20increases%20the%20total%20effort%20necessary%20in%20three%20ways:%20the%20work%20and%20disruption%20of%20repartitioning%20itself,%20training%20the%20new%20people,%20and%20added%20intercommunication.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
