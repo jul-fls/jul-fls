@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20only%20sin%20is%20to%20make%20a%20choice%20without%20knowing%20you%20are%20making%20one.&author=Jonathan%20Shewchuk)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20cleaner%20and%20nicer%20the%20program,%20the%20faster%20it's%20going%20to%20run.%20And%20if%20it%20doesn't,%20it'll%20be%20easy%20to%20make%20it%20fast.&author=Joshua%20Bloch)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
