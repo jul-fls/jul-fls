@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20cleaner%20and%20nicer%20the%20program,%20the%20faster%20it's%20going%20to%20run.%20And%20if%20it%20doesn't,%20it'll%20be%20easy%20to%20make%20it%20fast.&author=Joshua%20Bloch)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Is%20studying%20computer%20science%20the%20best%20way%20to%20prepare%20to%20be%20a%20programmer?%20No.%20the%20best%20way%20to%20prepare%20is%20to%20write%20programs,%20and%20to%20study%20great%20programs%20that%20other%20people%20have%20written.&author=Bill%20Gates)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
