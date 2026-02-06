@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Is%20studying%20computer%20science%20the%20best%20way%20to%20prepare%20to%20be%20a%20programmer?%20No.%20the%20best%20way%20to%20prepare%20is%20to%20write%20programs,%20and%20to%20study%20great%20programs%20that%20other%20people%20have%20written.&author=Bill%20Gates)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=No%20matter%20how%20correct%20a%20mathematical%20theorem%20may%20appear%20to%20be,%20one%20ought%20never%20to%20be%20satisfied%20that%20there%20was%20not%20something%20imperfect%20about%20it%20until%20it%20also%20gives%20the%20impression%20of%20being%20beautiful.&author=George%20Boole)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
