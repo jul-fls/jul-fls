@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20computer%20is%20a%20stupid%20machine%20with%20the%20ability%20to%20do%20incredibly%20smart%20things,%20while%20computer%20programmers%20are%20smart%20people%20with%20the%20ability%20to%20do%20incredibly%20stupid%20things.%20They%20are,%20in%20short,%20a%20perfect%20match.&author=David%20Parnas)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20most%20important%20single%20aspect%20of%20software%20development%20is%20to%20be%20clear%20about%20what%20you%20are%20trying%20to%20build.&author=Bjarne%20Stroustrup)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
