@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20most%20important%20single%20aspect%20of%20software%20development%20is%20to%20be%20clear%20about%20what%20you%20are%20trying%20to%20build.&author=Bjarne%20Stroustrup)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=And%20programming%20computers%20was%20so%20fascinating.%20You%20create%20your%20own%20little%20universe,%20and%20then%20it%20does%20what%20you%20tell%20it%20to%20do.&author=Vint%20Cerf)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
