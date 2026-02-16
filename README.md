@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=And%20programming%20computers%20was%20so%20fascinating.%20You%20create%20your%20own%20little%20universe,%20and%20then%20it%20does%20what%20you%20tell%20it%20to%20do.&author=Vint%20Cerf)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=As%20numbers%20are%20reduced%20to%20the%20simplest%20principles,%20like%200%20and%201,%20a%20wonderful%20order%20is%20apparent%20throughout.&author=Gottfried%20Wilhelm%20Leibniz)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
