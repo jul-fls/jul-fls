@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Dealing%20with%20failure%20is%20easy:%20Work%20hard%20to%20improve.&author=Alan%20Perlis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Success%20is%20a%20lousy%20teacher.%20It%20seduces%20smart%20people%20into%20thinking%20they%20can't%20lose.&author=Bill%20Gates)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
