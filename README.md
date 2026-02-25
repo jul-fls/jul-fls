@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20minds%20of%20my%20generation%20are%20thinking%20about%20how%20to%20make%20people%20click%20ads.&author=Jeff%20Hammerbacher)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=An%20evolving%20system%20increases%20its%20complexity%20unless%20work%20is%20done%20to%20reduce%20it.&author=Manny%20Lehman%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
