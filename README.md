@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20just%20had%20to%20take%20the%20hypertext%20idea%20and%20connect%20it%20to%20the%20TCP%20and%20DNS%20ideas%20and%20%E2%80%94%20ta-da!%E2%80%94%20the%20World%20Wide%20Web.&author=Tim%20Berners-Lee)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Whenever%20logical%20processes%20of%20thought%20are%20employed,%20there%20is%20an%20opportunity%20for%20the%20machine.&author=Vannevar%20Bush)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
