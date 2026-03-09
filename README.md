@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Nobody%20knows%20how%20to%20build%20really%20complicated%20hardware%20systems,%20so%20designing%20hardware%20tends%20to%20be%20simpler.%20Software%20is%20much%20more%20complicated.&author=Butler%20Lampson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20number%20of%20studies%20have%20shown%20testing%20not%20very%20effective%20at%20finding%20bugs.&author=Daniel%20T.%20Barry)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
