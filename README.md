@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20problem%20with%20object-oriented%20languages%20is%20they%E2%80%99ve%20got%20all%20this%20implicit%20environment%20that%20they%20carry%20around%20with%20them.%20You%20wanted%20a%20banana%20but%20what%20you%20got%20was%20a%20gorilla%20holding%20the%20banana%20and%20the%20entire%20jungle.&author=Joe%20Armstrong%20(programmer))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20are%20some%20basic%20techniques%20to%20control%20complexity.%20Fundamentally,%20I%20divide%20and%20conquer,%20break%20things%20down,%20and%20try%20to%20write%20reasonably%20precise%20descriptions%20of%20what%20each%20piece%20is%20supposed%20to%20do.&author=Butler%20Lampson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
