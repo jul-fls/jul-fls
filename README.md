@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20good%20programmer%20is%20someone%20who%20looks%20both%20ways%20before%20crossing%20a%20one-way%20street.&author=Doug%20Linder)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20have%20a%20procedure%20with%2010%20parameters,%20you%20probably%20missed%20some.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
