@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Software%20is%20usually%20expected%20to%20be%20modified%20over%20the%20course%20of%20its%20productive%20life.%20The%20process%20of%20converting%20one%20correct%20program%20into%20a%20different%20correct%20program%20is%20extremely%20challenging.&author=Douglas%20Crockford)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20want%20to%20set%20off%20and%20go%20develop%20some%20grand%20new%20thing,%20you%20don't%20need%20millions%20of%20dollars%20of%20capitalization.%20You%20need%20enough%20pizza%20and%20Diet%20Coke%20to%20stick%20in%20your%20refrigerator,%20a%20cheap%20PC%20to%20work%20on,%20and%20the%20dedication%20to%20go%20through%20with%20it.&author=John%20Carmack)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
