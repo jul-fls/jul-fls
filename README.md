@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20you%20want%20to%20set%20off%20and%20go%20develop%20some%20grand%20new%20thing,%20you%20don't%20need%20millions%20of%20dollars%20of%20capitalization.%20You%20need%20enough%20pizza%20and%20Diet%20Coke%20to%20stick%20in%20your%20refrigerator,%20a%20cheap%20PC%20to%20work%20on,%20and%20the%20dedication%20to%20go%20through%20with%20it.&author=John%20Carmack)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20programming%20systems%20product%20takes%20about%20nine%20times%20as%20much%20effort%20as%20the%20component%20programs%20written%20separately%20for%20private%20use.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
