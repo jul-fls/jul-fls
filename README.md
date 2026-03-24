@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20don't%20comment%20on%20the%20code%20itself%20because%20I%20feel%20that%20properly%20written%20code%20is%20very%20much%20self-documented.&author=Gary%20Kildall)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20real%20problem%20with%20throwaway%20code%20comes%20when%20it%20isn't%20thrown%20away.&author=Joseph%20Yoder%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
