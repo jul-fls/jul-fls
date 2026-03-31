@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20think%20there%20is%20a%20world%20market%20for%20maybe%20five%0Acomputers.&author=Thomas%20J.%20Watson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=C%20makes%20it%20easy%20to%20shoot%20yourself%20in%20the%20foot;%20C++%20makes%20it%20harder,%20but%20when%20you%20do%20it%20blows%20your%20whole%20leg%20off.&author=Bjarne%20Stroustrup)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
