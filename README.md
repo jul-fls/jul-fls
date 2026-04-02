@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Good%20architecture%20is%20necessary%20to%20give%20programs%20enough%20structure%20to%20be%20able%20to%20grow%20large%20without%20collapsing%20into%20a%20puddle%20of%20confusion.&author=Douglas%20Crockford)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20don't%20comment%20on%20the%20code%20itself%20because%20I%20feel%20that%20properly%20written%20code%20is%20very%20much%20self-documented.&author=Gary%20Kildall)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
