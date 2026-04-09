@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=LISP%20has%20assisted%20a%20number%20of%20our%20most%20gifted%20fellow%20humans%20in%20thinking%20previously%20impossible%20thoughts.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20next%20best%20thing%20to%20having%20good%20ideas%20is%20recognizing%20good%20ideas%20from%20your%20users.&author=Eric%20S.%20Raymond)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
