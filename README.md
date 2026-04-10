@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20next%20best%20thing%20to%20having%20good%20ideas%20is%20recognizing%20good%20ideas%20from%20your%20users.&author=Eric%20S.%20Raymond)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=JavaScript,%20purely%20by%20accident,%20has%20become%20the%20most%20popular%20programming%20language%20in%20the%20world.&author=Douglas%20Crockford)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
