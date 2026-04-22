@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=To%20iterate%20is%20human,%20to%20recurse%20divine.&author=L.%20Peter%20Deutsch)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=And%20programming%20computers%20was%20so%20fascinating.%20You%20create%20your%20own%20little%20universe,%20and%20then%20it%20does%20what%20you%20tell%20it%20to%20do.&author=Vint%20Cerf)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
