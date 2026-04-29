@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sometimes%20it%E2%80%99s%20just%20easier%20to%20throw%20a%20system%20away,%20and%20start%20over.&author=Joseph%20Yoder%20(computer%20scientist))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.%20Therefore,%20if%20you%20write%20the%20code%20as%20cleverly%20as%20possible,%20you%20are,%20by%20definition,%20not%20smart%20enough%20to%20debug%20it.&author=Brian%20Kernighan)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
