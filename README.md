@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20think%20the%20best%20way%20to%20supervise%20is%20by%20personal%20example%20and%20by%20frequent%20code%20reviews.&author=Charles%20Simonyi)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=When%20you%20feel%20the%20need%20to%20write%20a%20comment,%20first%20try%20to%20refactor%20the%20code%20so%20that%20any%20comment%20becomes%20superfluous.&author=Kent%20Beck)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
