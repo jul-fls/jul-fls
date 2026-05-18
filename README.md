@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20am%20never%20satisfied%20until%20I%20have%20said%20as%20much%20as%20possible%20in%20a%20few%20words,%20and%20writing%20briefly%20takes%20far%20more%20time%20than%20writing%20at%20length.&author=Carl%20Friedrich%20Gauss)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20are%20few%20sources%20of%20energy%20so%20powerful%20as%20a%20procrastinating%20grad%20student.&author=Paul%20Graham%20(programmer))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
