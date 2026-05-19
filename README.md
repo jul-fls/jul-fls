@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20are%20few%20sources%20of%20energy%20so%20powerful%20as%20a%20procrastinating%20grad%20student.&author=Paul%20Graham%20(programmer))
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Simplicity%20does%20not%20precede%20complexity,%20but%20follows%20it.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
