@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20most%20powerful%20programming%20language%20is%20Lisp.%20If%20you%20don't%20know%20Lisp%20(or%20its%20variant,%20Scheme),%20you%20don't%20know%20what%20it%20means%20for%20a%20programming%20language%20to%20be%20powerful%20and%20elegant.%20Once%20you%20learn%20Lisp,%20you%20will%20understand%20what%20is%20lacking%20in%20most%20other%20languages.&author=Richard%20Stallman)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Don't%20worry%20about%20anything.%20Just%20do%20what%20you%20can%20and%20be%20the%20best%20you%20can%20be.&author=Douglas%20Crockford)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
