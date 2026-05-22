@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Don't%20worry%20about%20anything.%20Just%20do%20what%20you%20can%20and%20be%20the%20best%20you%20can%20be.&author=Douglas%20Crockford)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20team%20of%20highly%20competent%20programmers%20who%20are%20also%20highly%20territorial,%20egotistical%20politicians%20will%20fail%20while%20a%20team%20of%20equally%20competent%20programmers,%20who%20are%20also%20egoless,%20cooperative,%20team%20players%20will%20succeed.&author=Daniel%20T.%20Barry)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
