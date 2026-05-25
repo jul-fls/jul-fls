@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20team%20of%20highly%20competent%20programmers%20who%20are%20also%20highly%20territorial,%20egotistical%20politicians%20will%20fail%20while%20a%20team%20of%20equally%20competent%20programmers,%20who%20are%20also%20egoless,%20cooperative,%20team%20players%20will%20succeed.&author=Daniel%20T.%20Barry)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20think%20it%20is%20inevitable%20that%20people%20program%20poorly.%20Training%20will%20not%20substantially%20help%20matters.%20We%20have%20to%20learn%20to%20live%20with%20it.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
