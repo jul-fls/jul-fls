@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Just%20because%20you've%20implemented%20something%20doesn't%20mean%20you%20understand%20it.&author=Brian%20Cantwell%20Smith)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20cost%20of%20adding%20a%20feature%20isn%E2%80%99t%20just%20the%20time%20it%20takes%20to%20code%20it.%20The%20cost%20also%20includes%20the%20addition%20of%20an%20obstacle%20to%20future%20expansion.%20The%20trick%20is%20to%20pick%20the%20features%20that%20don%E2%80%99t%20fight%20each%20other.&author=John%20Carmack)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
