@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=If%20builders%20built%20houses%20the%20way%20programmers%20built%20programs,%20the%20first%20woodpecker%20to%20come%20along%20would%20destroy%20civilization.&author=Gerald%20Weinberg)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Once%20a%20new%20technology%20starts%20rolling,%20if%20you%E2%80%99re%20not%20part%20of%20the%20steamroller,%20you%E2%80%99re%20part%20of%20the%20road.&author=Stewart%20Brand)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
