@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20purpose%20of%20abstraction%20is%20not%20to%20be%20vague,%20but%20to%20create%20a%20new%20semantic%20level%20in%20which%20one%20can%20be%20absolutely%20precise.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20few%20months%20writing%20code%20can%20save%20you%20a%20few%20hours%20in%20design.&author=Anonymous)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
