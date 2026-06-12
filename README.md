@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20few%20months%20writing%20code%20can%20save%20you%20a%20few%20hours%20in%20design.&author=Anonymous)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=An%20infinite%20number%20of%20monkeys%20typing%20into%20GNU%20Emacs%20would%20never%20make%20a%20good%20program.&author=Linus%20Torvalds)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
