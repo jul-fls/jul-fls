@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=An%20infinite%20number%20of%20monkeys%20typing%20into%20GNU%20Emacs%20would%20never%20make%20a%20good%20program.&author=Linus%20Torvalds)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Adding%20manpower%20to%20a%20late%20software%20project%20makes%20it%20later.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
