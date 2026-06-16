@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Adding%20manpower%20to%20a%20late%20software%20project%20makes%20it%20later.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20have%20met%20bright%20students%20in%20computer%20science%20who%20have%20never%20seen%20the%20source%20code%20of%20a%20large%20program.%20They%20may%20be%20good%20at%20writing%20small%20programs,%20but%20they%20can't%20begin%20to%20learn%20the%20different%20skills%20of%20writing%20large%20ones%20if%20they%20can't%20see%20how%20others%20have%20done%20it.&author=Richard%20Stallman)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
