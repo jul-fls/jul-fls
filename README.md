@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%E2%80%99s%20all%20talk%20until%20the%20code%20runs.&author=Ward%20Cunningham)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=All%20too%20many%20of%20our%20software%20systems%20are,%20architecturally,%20little%20more%20than%20shantytowns.&author=Joseph%20Yoder%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
