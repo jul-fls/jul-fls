@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20was%20a%20turning%20point%20in%20my%20programming%20career%20when%20I%20realized%20that%20I%20didn't%20have%20to%20win%20every%20argument.&author=Ward%20Cunningham)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=You%20might%20not%20think%20that%20programmers%20are%20artists,%20but%20programming%20is%20an%20extremely%20creative%20profession.%20It's%20logic-based%20creativity.&author=John%20Romero)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
