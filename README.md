@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20only%20difference%20between%20a%20FA%20%5Bfinite%20automata%5D%20and%20a%20TM%20%5BTuring%20machine%5D%20is%20that%20the%20TM,%20unlike%20the%20FA,%20has%20paper%20and%20pencil.%20Think%20about%20it.%20It%20tells%20you%20something%20about%20the%20power%20of%20writing.&author=Manuel%20Blum)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=What's%20very%20important%20from%20my%20point%20of%20view%20is%20that%20there%20is%20one%20web.%20Anyone%20that%20tries%20to%20chop%20it%20into%20two%20will%20find%20that%20their%20piece%20looks%20very%20boring.&author=Tim%20Berners-Lee)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
