@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=What's%20very%20important%20from%20my%20point%20of%20view%20is%20that%20there%20is%20one%20web.%20Anyone%20that%20tries%20to%20chop%20it%20into%20two%20will%20find%20that%20their%20piece%20looks%20very%20boring.&author=Tim%20Berners-Lee)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computer%20Science%20is%20no%20more%20about%20computers%20than%20astronomy%20is%20about%20telescopes.&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
