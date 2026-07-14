@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20management%20question,%20therefore,%20is%20not%20whether%20to%20build%20a%20pilot%20system%20and%20throw%20it%20away.%20You%20will%20do%20that.%20The%20only%20question%20is%20whether%20to%20plan%20in%20advance%20to%20build%20a%20throwaway,%20or%20to%20promise%20to%20deliver%20the%20throwaway%20to%20customers.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20code%20you%20write%20makes%20you%20a%20programmer.%20The%20code%20you%20delete%20makes%20you%20a%20good%20one.%20The%20code%20you%20don't%20have%20to%20write%20makes%20you%20a%20great%20one.&author=Mario%20Fusco)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
