@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=As%20with%20most%20projects,%20the%20last%20two%20percent%20takes%20fifty%20percent%20of%20the%20time.&author=John%20Warnock)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Really,%20I'm%20not%20out%20to%20destroy%20Microsoft.%20That%20will%20just%20be%20a%20completely%20unintentional%20side%20effect.&author=Linus%20Torvalds)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
