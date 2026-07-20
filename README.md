@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Really,%20I'm%20not%20out%20to%20destroy%20Microsoft.%20That%20will%20just%20be%20a%20completely%20unintentional%20side%20effect.&author=Linus%20Torvalds)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=One%20accurate%20measurement%20is%20worth%20more%20than%20a%20thousand%20expert%20opinions.&author=Grace%20Hopper)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
