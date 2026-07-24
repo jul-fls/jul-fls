@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Low-level%20programming%20is%20good%20for%20the%20programmer%E2%80%99s%20soul.&author=John%20Carmack)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=All%20repairs%20tend%20to%20destroy%20structure,%20to%20increase%20the%20entropy%20and%20disorder%20of%20a%20system.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
