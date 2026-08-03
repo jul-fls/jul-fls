@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Flaws%20in%20computer%20programs%20are%20usually%20called%20bugs.%20It%20makes%20programmers%20feel%20good%20to%20imagine%20them%20as%20little%20things%20that%20just%20happen%20to%20crawl%20into%20our%20work.%20In%20reality,%20of%20course,%20we%20put%20them%20there%20ourselves.&author=Marijn%20Haverbeke)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=With%20testing,%20I%20know%20straight%20away%20when%20I%20added%20a%20bug.%20That%20lets%20me%20fix%20the%20bug%20immediately,%20before%20it%20can%20crawl%20off%20and%20hide.&author=Martin%20Fowler)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
