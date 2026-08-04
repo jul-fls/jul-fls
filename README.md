@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=With%20testing,%20I%20know%20straight%20away%20when%20I%20added%20a%20bug.%20That%20lets%20me%20fix%20the%20bug%20immediately,%20before%20it%20can%20crawl%20off%20and%20hide.&author=Martin%20Fowler)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20computer%20shall%20not%20waste%20your%20time%20or%20require%20you%20to%20do%20more%20work%20than%20is%20strictly%20necessary.&author=Jef%20Raskin)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
