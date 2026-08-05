@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20computer%20shall%20not%20waste%20your%20time%20or%20require%20you%20to%20do%20more%20work%20than%20is%20strictly%20necessary.&author=Jef%20Raskin)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Your%20most%20unhappy%20customers%20are%20your%20greatest%20source%20of%20learning.&author=Bill%20Gates)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
