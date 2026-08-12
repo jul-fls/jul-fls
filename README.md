@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20is%20not%20only%20a%20close%20analogy%20between%20the%20operations%20of%20the%20mind%20in%20general%20reasoning%20and%20its%20operations%20in%20the%20particular%20science%20of%20Algebra,%20but%20there%20is%20to%20a%20considerable%20extent%20an%20exact%20agreement%20in%20the%20laws%20by%20which%20the%20two%20classes%20of%20operations%20are%20conducted.&author=George%20Boole)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Programming,%20it%20turns%20out,%20is%20hard.%20The%20fundamental%20rules%20are%20typically%20simple%20and%20clear.%20But%20programs%20built%20on%20top%20of%20these%20rules%20tend%20to%20become%20complex%20enough%20to%20introduce%20their%20own%20rules%20and%20complexity.%20You%E2%80%99re%20building%20your%20own%20maze,%20in%20a%20way,%20and%20you%20might%20just%20get%20lost%20in%20it.&author=Marijn%20Haverbeke)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
