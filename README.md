@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Computers%20themselves%20can%20do%20only%20stupidly%20straightforward%20things.%20The%20reason%20they%20are%20so%20useful%20is%20that%20they%20do%20these%20things%20at%20an%20incredibly%20high%20speed.&author=Marijn%20Haverbeke)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Once%20you%20stop%20learning%20you%20start%20dying.&author=Albert%20Einstein)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
