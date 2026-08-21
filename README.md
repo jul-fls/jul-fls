@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sometimes,%20the%20elegant%20implementation%20is%20a%20function.%20Not%20a%20method.%20Not%20a%20class.%20Not%20a%20framework.%20Just%20a%20function.&author=John%20Carmack)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=What%20I%20cannot%20build,%20I%20do%20not%20understand.&author=Richard%20Feynman)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
