@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Educators,%20generals,%20dieticians,%20psychologists,%20and%20parents%20program.%20Armies,%20students,%20and%20some%20societies%20are%20programmed.&author=Alan%20Perlis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=I%20think%20you%20should%20always%20bear%20in%20mind%20that%20entropy%20is%20not%20on%20your%20side.&author=Elon%20Musk)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
