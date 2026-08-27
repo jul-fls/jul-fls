@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20path%20to%20the%20CEO's%20office%20should%20not%20be%20through%20the%20CFO's%20office,%20and%20it%20should%20not%20be%20through%20the%20marketing%20department.%20It%20needs%20to%20be%20through%20engineering%20and%20design.&author=Elon%20Musk)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Human%20beings%20are%20not%20accustomed%20to%20being%20perfect,%20and%20few%20areas%20of%20human%20activity%20demand%20it.%20Adjusting%20to%20the%20requirement%20for%20perfection%20is,%20I%20think,%20the%20most%20difficult%20part%20of%20learning%20to%20program.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
