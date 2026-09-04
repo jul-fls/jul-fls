@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Typing%20is%20no%20substitute%20for%20thinking.&author=Richard%20Hamming)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Really%20good%20programs%20live%20forever.&author=Charles%20Simonyi)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
