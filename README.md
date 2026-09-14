@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20program%20is%20a%20building%20of%20thought.%20It%20is%20costless%20to%20build,%20it%20is%20weightless,%20and%20it%20grows%20easily%20under%20our%20typing%20hands.%20But%20without%20care,%20a%20program%E2%80%99s%20size%20and%20complexity%20will%20grow%20out%20of%20control,%20confusing%20even%20the%20person%20who%20created%20it.&author=Marijn%20Haverbeke)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20Domain%20Name%20Server%20(DNS)%20is%20the%20Achilles%20heel%20of%20the%20Web.&author=Tim%20Berners-Lee)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
