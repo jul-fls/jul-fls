@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20Domain%20Name%20Server%20(DNS)%20is%20the%20Achilles%20heel%20of%20the%20Web.&author=Tim%20Berners-Lee)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Good%20judgement%20comes%20from%20experience.%20Experience%20comes%20from%20bad%20judgement.&author=Jim%20Horning)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
