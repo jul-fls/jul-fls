@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Good%20judgement%20comes%20from%20experience.%20Experience%20comes%20from%20bad%20judgement.&author=Jim%20Horning)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=When%20you%20feel%20the%20need%20to%20write%20a%20comment,%20first%20try%20to%20refactor%20the%20code%20so%20that%20any%20comment%20becomes%20superfluous.&author=Kent%20Beck)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
