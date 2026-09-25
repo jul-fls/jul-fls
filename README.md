@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=My%20rule%20of%20thumb%20is%201/3%20of%20the%20schedule%20for%20design,%201/6%20for%20coding,%201/4%20for%20component%20testing,%20and%201/4%20for%20system%20testing.&author=Fred%20Brooks)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20minds%20of%20my%20generation%20are%20thinking%20about%20how%20to%20make%20people%20click%20ads.&author=Jeff%20Hammerbacher)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
