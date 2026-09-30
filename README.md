@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sometimes%20we%20do%20get%20taken%20by%20surprise.%20For%20example,%20when%20the%20Internet%20came%20along,%20we%20had%20it%20as%20a%20fifth%20or%20sixth%20priority.&author=Bill%20Gates)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
