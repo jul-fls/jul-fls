@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Sometimes%20we%20do%20get%20taken%20by%20surprise.%20For%20example,%20when%20the%20Internet%20came%20along,%20we%20had%20it%20as%20a%20fifth%20or%20sixth%20priority.&author=Bill%20Gates)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20are%20two%20major%20products%20that%20come%20out%20of%20Berkeley:%20LSD%20and%20UNIX.%20We%20don't%20believe%20this%20to%20be%20a%20coincidence.&author=Jeremy%20S.%20Anderson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
