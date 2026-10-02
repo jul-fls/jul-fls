@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=There%20are%20two%20major%20products%20that%20come%20out%20of%20Berkeley:%20LSD%20and%20UNIX.%20We%20don't%20believe%20this%20to%20be%20a%20coincidence.&author=Jeremy%20S.%20Anderson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Within%20C++,%20there%20is%20a%20much%20smaller%20and%20cleaner%20language%20struggling%20to%20get%20out.&author=Bjarne%20Stroustrup)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
