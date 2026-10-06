@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Complexity%20kills.%20It%20sucks%20the%20life%20out%20of%20developers,%20it%20makes%20products%20difficult%20to%20plan,%20build%20and%20test,%20it%20introduces%20security%20challenges%20and%20it%20causes%20end-user%20and%20administrator%20frustration.&author=Ray%20Ozzie)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20is%20practically%20impossible%20to%20teach%20good%20programming%20to%20students%20that%20have%20had%20a%20prior%20exposure%20to%20BASIC:%20as%20potential%20programmers%20they%20are%20mentally%20mutilated%20beyond%20hope%20of%20regeneration.&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
