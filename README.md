@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=It%20is%20practically%20impossible%20to%20teach%20good%20programming%20to%20students%20that%20have%20had%20a%20prior%20exposure%20to%20BASIC:%20as%20potential%20programmers%20they%20are%20mentally%20mutilated%20beyond%20hope%20of%20regeneration.&author=Edsger%20W.%20Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20use%20of%20COBOL%20cripples%20the%20mind;%20its%20teaching%20should,%20therefore,%20be%20regarded%20as%20a%20criminal%20offense.&author=Edsger%20W.%20Dijkstra)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
