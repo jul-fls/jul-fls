@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=See,%20you%20not%20only%20have%20to%20be%20a%20good%20coder%20to%20create%20a%20system%20like%20Linux,%20you%20have%20to%20be%20a%20sneaky%20bastard%20too%20;-)&author=Linus%20Torvalds)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20separation%20of%20architectural%20effort%20from%20implementation%20is%20a%20very%20powerful%20way%20of%20getting%20conceptual%20integrity%20on%20very%20large%20projects.&author=Fred%20Brooks)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
