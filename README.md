@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20best%20programmers%20are%20up%20to%2028%20times%20better%20than%20the%20worst%20programmers,%20according%20to%20%E2%80%9Cindividual%20differences%E2%80%9D%20research.%20Given%20that%20their%20pay%20is%20never%20commensurate,%20they%20are%20the%20biggest%20bargains%20in%20the%20software%20field.&author=Robert%20L.%20Glass)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=An%20evolving%20system%20increases%20its%20complexity%20unless%20work%20is%20done%20to%20reduce%20it.&author=Manny%20Lehman%20(computer%20scientist))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
