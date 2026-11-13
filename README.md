@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20act%20of%20describing%20a%20program%20in%20unambiguous%20detail%20and%20the%20act%20of%20programming%20are%20one%20and%20the%20same.&author=Kevlin%20Henney)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=What%20I%20like%20about%20programming%20is%20that%20it%20really%20helps%20you%20think%20about%20how%20we%20communicate,%20how%20we%20think,%20how%20logic%20works,%20how%20creative%20arts%20work.&author=Michael%20Hawley)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
