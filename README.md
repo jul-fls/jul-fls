@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=What%20I%20like%20about%20programming%20is%20that%20it%20really%20helps%20you%20think%20about%20how%20we%20communicate,%20how%20we%20think,%20how%20logic%20works,%20how%20creative%20arts%20work.&author=Michael%20Hawley)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=In%20man-machine%20symbiosis,%20it%20is%20man%20who%20must%20adjust:%20The%20machines%20can't.&author=Alan%20Perlis)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
