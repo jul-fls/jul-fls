@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=Every%20computer%20language%20has%20its%20Shakespeares,%20and%20it%20is%20a%20joy%20to%20read%20their%20code.%20A%20well-written%20computer%20program%20possesses%20style,%20finesse,%20even%20humor%E2%80%94and%20a%20clarity%20that%20rivals%20the%20best%20prose.&author=Danny%20Hillis)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20reason%20that%20we%20think%20computer%20science%20is%20about%20computers%20is%20pretty%20much%20the%20same%20reason%20that%20the%20Egyptians%20thought%20geometry%20was%20about%20surveying%20instruments:%20when%20some%20field%20is%20just%20getting%20started%20and%20you%20don't%20really%20understand%20it%20very%20well,%20it's%20very%20easy%20to%20confuse%20the%20essence%20of%20what%20you're%20doing%20with%20the%20tools%20that%20you%20use.&author=Hal%20Abelson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
