@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jul-fls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=The%20reason%20that%20we%20think%20computer%20science%20is%20about%20computers%20is%20pretty%20much%20the%20same%20reason%20that%20the%20Egyptians%20thought%20geometry%20was%20about%20surveying%20instruments:%20when%20some%20field%20is%20just%20getting%20started%20and%20you%20don't%20really%20understand%20it%20very%20well,%20it's%20very%20easy%20to%20confuse%20the%20essence%20of%20what%20you're%20doing%20with%20the%20tools%20that%20you%20use.&author=Hal%20Abelson)
+![](https://quotes-github-readme.vercel.app/api?type=quote&theme=radical&quote=A%20computational%20process%20is%20indeed%20much%20like%20a%20sorcerer's%20idea%20of%20a%20spirit.%20It%20cannot%20be%20seen%20or%20touched.%20It%20is%20not%20composed%20of%20matter%20at%20all.%20However,%20it%20is%20very%20real.%20It%20can%20perform%20intellectual%20work.%20It%20can%20answer%20questions.%20It%20can%20affect%20the%20world%20by%20disbursing%20money%20at%20a%20bank%20or%20by%20controlling%20a%20robot%20arm%20in%20a%20factory.&author=Hal%20Abelson)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jul-fls&limit=5&theme=radical&combine_all_yearly_contributions=true)
